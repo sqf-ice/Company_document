@@ -1,0 +1,9 @@
+case '1':
+if(SelPage==1){send_modtitle(0);if(id0[0]!=0)systest(func0, id0);break;}
+case '2':
+case '3':
+case '4':
+case '5':
+case '6':
+case '7':
+case '8':

@@ -1,0 +1,4 @@
+subapp_src目录中是subapp1的源码及编译环境；
+subapp2_src目录中是subapp2的源码及makefile；
+subapp3_src目录中是subapp3的源码及makefile，subapp3是用来打包成SUBAPP.NLD；
+subapp1 subapp2 和SUBAPP.NLD

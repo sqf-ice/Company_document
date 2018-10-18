@@ -1,0 +1,1 @@
+EMV_L1_LoopBack.o: EMV_L1_LoopBack.c NDK.h kb.h libdevmgr.h

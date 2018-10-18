@@ -1,0 +1,2375 @@
+Archive member included because of file (symbol)
+
+../o/ME32/_systest.o(systest.o)
+                              ../o/ME32/main.o (systest)
+../o/ME32/_systest.o(systest5.o)
+                              ../o/ME32/main.o (systest5)
+../o/ME32/_systest.o(systest6.o)
+                              ../o/ME32/main.o (systest6)
+../o/ME32/_systest.o(systest7.o)
+                              ../o/ME32/main.o (systest7)
+../o/ME32/_systest.o(systest8.o)
+                              ../o/ME32/main.o (systest8)
+../o/ME32/_systest.o(systest10.o)
+                              ../o/ME32/main.o (systest10)
+../o/ME32/_systest.o(systest12.o)
+                              ../o/ME32/main.o (systest12)
+../o/ME32/_systest.o(systest13.o)
+                              ../o/ME32/main.o (systest13)
+../o/ME32/_systest.o(systest24.o)
+                              ../o/ME32/main.o (systest24)
+../o/ME32/_systest.o(systest25.o)
+                              ../o/ME32/main.o (systest25)
+../o/ME32/_systest.o(systest32.o)
+                              ../o/ME32/main.o (systest32)
+../o/ME32/_systest.o(systest34.o)
+                              ../o/ME32/main.o (systest34)
+../o/ME32/_systest.o(systest47.o)
+                              ../o/ME32/main.o (systest47)
+../o/ME32/_systest.o(systest48.o)
+                              ../o/ME32/main.o (systest48)
+../o/ME32/_systest.o(systest49.o)
+                              ../o/ME32/main.o (systest49)
+../o/ME32/_systest.o(systest50.o)
+                              ../o/ME32/main.o (systest50)
+../o/ME32/_systest.o(systest57.o)
+                              ../o/ME32/main.o (systest57)
+../o/ME32/_systest.o(systest58.o)
+                              ../o/ME32/main.o (systest58)
+../o/ME32/_systest.o(systest63.o)
+                              ../o/ME32/main.o (systest63)
+../o/ME32/_systest.o(systest64.o)
+                              ../o/ME32/main.o (systest64)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubdf3.o)
+                              ../o/ME32/gui.o (__aeabi_dadd)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivdf3.o)
+                              ../o/ME32/gui.o (__aeabi_dmul)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixunsdfsi.o)
+                              ../o/ME32/gui.o (__aeabi_d2uiz)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_truncdfsf2.o)
+                              ../o/ME32/lib.o (__aeabi_d2f)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubsf3.o)
+                              ../o/ME32/lib.o (__aeabi_fsub)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivsf3.o)
+                              ../o/ME32/lib.o (__aeabi_fmul)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_cmpsf2.o)
+                              ../o/ME32/_systest.o(systest6.o) (__aeabi_fcmplt)
+f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixsfsi.o)
+                              ../o/ME32/lib.o (__aeabi_f2iz)
+../lib/ME32/libc_Cortex-M.a(atoi.o)
+                              ../o/ME32/lib.o (atoi)
+../lib/ME32/libc_Cortex-M.a(ctype.o)
+                              ../o/ME32/lib.o (_ctype)
+../lib/ME32/libc_Cortex-M.a(localtime.o)
+                              ../o/ME32/lib.o (localtime)
+../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+                              ../lib/ME32/libc_Cortex-M.a(localtime.o) (localtime_r)
+../lib/ME32/libc_Cortex-M.a(memcmp.o)
+                              ../o/ME32/lib.o (memcmp)
+../lib/ME32/libc_Cortex-M.a(memcpy.o)
+                              ../o/ME32/gui.o (memcpy)
+../lib/ME32/libc_Cortex-M.a(memset.o)
+                              ../o/ME32/main.o (memset)
+../lib/ME32/libc_Cortex-M.a(mktime.o)
+                              ../o/ME32/tools.o (mktime)
+../lib/ME32/libc_Cortex-M.a(rand.o)
+                              ../o/ME32/main.o (srand)
+../lib/ME32/libc_Cortex-M.a(sprintf.o)
+                              ../lib/ME32/NDK_sysapi.o (vsprintf)
+../lib/ME32/libc_Cortex-M.a(strchr.o)
+                              ../o/ME32/tools.o (strchr)
+../lib/ME32/libc_Cortex-M.a(strcpy.o)
+                              ../o/ME32/main.o (strcpy)
+../lib/ME32/libc_Cortex-M.a(strlen.o)
+                              ../o/ME32/gui.o (strlen)
+../lib/ME32/libc_Cortex-M.a(strncpy.o)
+                              ../o/ME32/tools.o (strncpy)
+../lib/ME32/libc_Cortex-M.a(strstr.o)
+                              ../o/ME32/tools.o (strstr)
+../lib/ME32/libc_Cortex-M.a(strtol.o)
+                              ../lib/ME32/libc_Cortex-M.a(atoi.o) (strtol)
+../lib/ME32/libc_Cortex-M.a(div.o)
+                              ../lib/ME32/libc_Cortex-M.a(mktime.o) (div)
+../lib/ME32/libc_Cortex-M.a(doprntx.o)
+                              ../lib/ME32/libc_Cortex-M.a(sprintf.o) (_doprntx)
+../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+                              ../lib/ME32/libc_Cortex-M.a(localtime_r.o) (_mktm_r)
+../lib/ME32/libc_Cortex-M.a(memchr.o)
+                              ../lib/ME32/libc_Cortex-M.a(doprntx.o) (memchr)
+
+Allocating common symbols
+Common symbol       size              file
+
+__gnu_lto_v1        0x1               ../lib/ME32/NDK_sysapi.o
+
+Discarded input sections
+
+ .gnu.lto_.profile.356aa0a8
+                0x00000000       0x16 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.icf.356aa0a8
+                0x00000000      0x3dd ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.jmpfuncs.356aa0a8
+                0x00000000      0x49a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.inline.356aa0a8
+                0x00000000      0x409 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.pureconst.356aa0a8
+                0x00000000      0x1e4 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_default_fn.356aa0a8
+                0x00000000       0xc0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_module_init.356aa0a8
+                0x00000000      0x148 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTHWReset.356aa0a8
+                0x00000000      0x148 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSuspend.356aa0a8
+                0x00000000      0x149 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrInitGui.356aa0a8
+                0x00000000       0xc3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrGotoxy.356aa0a8
+                0x00000000      0x1a6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrGetxy.356aa0a8
+                0x00000000      0x1a6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrBackLight.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrSetAttr.356aa0a8
+                0x00000000      0x1c0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrPush.356aa0a8
+                0x00000000      0x14c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrPop.356aa0a8
+                0x00000000      0x14c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrDispString.356aa0a8
+                0x00000000      0x202 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrGetPixel.356aa0a8
+                0x00000000      0x1da ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrPutPixel.356aa0a8
+                0x00000000      0x1d9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrLine.356aa0a8
+                0x00000000      0x228 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrRectangle.356aa0a8
+                0x00000000      0x263 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrClrLine.356aa0a8
+                0x00000000      0x1b2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrDrawBitmap.356aa0a8
+                0x00000000      0x22a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrSetContrast.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrGetLcdSize.356aa0a8
+                0x00000000      0x1b2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrClrs.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrGetFontSize.356aa0a8
+                0x00000000      0x1b3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrDispPic.356aa0a8
+                0x00000000      0x22a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrLoadBDF.356aa0a8
+                0x00000000      0x212 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrDispBDFText.356aa0a8
+                0x00000000      0x205 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrPrintf.356aa0a8
+                0x00000000      0x393 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbHit.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbFlush.356aa0a8
+                0x00000000      0x14d ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbGetCode.356aa0a8
+                0x00000000      0x1b2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbGetInput.356aa0a8
+                0x00000000      0x297 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbScanCode.356aa0a8
+                0x00000000      0x180 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortOpen.356aa0a8
+                0x00000000      0x1bd ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortClose.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortRead.356aa0a8
+                0x00000000      0x24a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortWrite.356aa0a8
+                0x00000000      0x1ec ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortTxSendOver.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortClrBuf.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PortReadLen.356aa0a8
+                0x00000000      0x1bf ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IccGetVersion.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IccDetect.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IccPowerUp.356aa0a8
+                0x00000000      0x1f0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IccPowerDown.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_Iccrw.356aa0a8
+                0x00000000      0x246 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MagOpen.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MagClose.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MagReset.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MagSwiped.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MagReadNormal.356aa0a8
+                0x00000000      0x207 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsOpen.356aa0a8
+                0x00000000      0x1b2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsClose.356aa0a8
+                0x00000000      0x17e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsRead.356aa0a8
+                0x00000000      0x1e0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsWrite.356aa0a8
+                0x00000000      0x1df ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsSeek.356aa0a8
+                0x00000000      0x1e6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsDel.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsFileSize.356aa0a8
+                0x00000000      0x1b9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsExist.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsTruncate.356aa0a8
+                0x00000000      0x1b4 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsTell.356aa0a8
+                0x00000000      0x1b3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsRename.356aa0a8
+                0x00000000      0x1b8 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsFormat.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_Getlibver.356aa0a8
+                0x00000000      0x183 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysDelay.356aa0a8
+                0x00000000      0x189 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysMsDelay.356aa0a8
+                0x00000000      0x18b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysReboot.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysShutDown.356aa0a8
+                0x00000000      0x151 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysBeep.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGoSuspend.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetPowerVol.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysSetPosTime.356aa0a8
+                0x00000000      0x195 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetPosTime.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_LedStatus.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysStartWatch.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysReadWatch.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysStopWatch.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysTimeBeep.356aa0a8
+                0x00000000      0x1b9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetConfigInfo.356aa0a8
+                0x00000000      0x1c2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetPosInfo.356aa0a8
+                0x00000000      0x1ec ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetPowerVolRange.356aa0a8
+                0x00000000      0x1b0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysSetPosInfo.356aa0a8
+                0x00000000      0x1bd ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysSetShutdownDelay.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysTime.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AppRun.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_LibLoad.356aa0a8
+                0x00000000      0x1c2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AppLoad.356aa0a8
+                0x00000000      0x1c3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AddDigitStr.356aa0a8
+                0x00000000      0x211 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IncNum.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FmtAmtStr.356aa0a8
+                0x00000000      0x1ea ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AscToHex.356aa0a8
+                0x00000000      0x21a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_HexToAsc.356aa0a8
+                0x00000000      0x21c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IntToC4.356aa0a8
+                0x00000000      0x1b4 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IntToC2.356aa0a8
+                0x00000000      0x1b5 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_C4ToInt.356aa0a8
+                0x00000000      0x1b6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_C2ToInt.356aa0a8
+                0x00000000      0x1b6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ByteToBcd.356aa0a8
+                0x00000000      0x1ae ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BcdToByte.356aa0a8
+                0x00000000      0x1bd ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IntToBcd.356aa0a8
+                0x00000000      0x1e0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BcdToInt.356aa0a8
+                0x00000000      0x1b5 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_CalcLRC.356aa0a8
+                0x00000000      0x1e1 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_LeftTrim.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RightTrim.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AllTrim.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AddSymbolToStr.356aa0a8
+                0x00000000      0x213 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SubStr.356aa0a8
+                0x00000000      0x23b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IsDigitChar.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IsDigitStr.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IsLeapYear.356aa0a8
+                0x00000000      0x17e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MonthDays.356aa0a8
+                0x00000000      0x1de ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_IsValidDate.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTReset.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTGetLocalName.356aa0a8
+                0x00000000      0x17d ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTEnterCommand.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTExitCommand.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTGetLocalMAC.356aa0a8
+                0x00000000      0x180 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetLocalMAC.356aa0a8
+                0x00000000      0x180 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTGetPIN.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetLocalName.356aa0a8
+                0x00000000      0x17e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetPIN.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTGetChannel.356aa0a8
+                0x00000000      0x183 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetChannel.356aa0a8
+                0x00000000      0x189 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTStatus.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTDisconnect.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetPairingMode.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTGetPairingStatus.356aa0a8
+                0x00000000      0x1b9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTConfirmPairing.356aa0a8
+                0x00000000      0x1bb ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetPINCode.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetDiscoverableStatus.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_MFI_CHECK.356aa0a8
+                0x00000000      0x151 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidVersion.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidInit.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidOpenRf.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidCloseRf.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccState.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidSuspend.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidResume.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccType.356aa0a8
+                0x00000000      0x18f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccDetect.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccActivate.356aa0a8
+                0x00000000      0x1ed ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccDeactivate.356aa0a8
+                0x00000000      0x18a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidPiccApdu.356aa0a8
+                0x00000000      0x20d ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Request.356aa0a8
+                0x00000000      0x1f4 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Anti.356aa0a8
+                0x00000000      0x1ba ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Select.356aa0a8
+                0x00000000      0x1de ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1KeyStore.356aa0a8
+                0x00000000      0x1f0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1KeyLoad.356aa0a8
+                0x00000000      0x1b9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1InternalAuthen.356aa0a8
+                0x00000000      0x21c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1ExternalAuthen.356aa0a8
+                0x00000000      0x24a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Read.356aa0a8
+                0x00000000      0x1f3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Write.356aa0a8
+                0x00000000      0x1f3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Increment.356aa0a8
+                0x00000000      0x1f5 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Decrement.356aa0a8
+                0x00000000      0x1f5 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Transfer.356aa0a8
+                0x00000000      0x18c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1Restore.356aa0a8
+                0x00000000      0x18b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_M1halt.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RfidTypeARats.356aa0a8
+                0x00000000      0x1eb ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PiccQuickRequest.356aa0a8
+                0x00000000      0x183 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SetIgnoreProtocol.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_GetIgnoreProtocol.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_GetRfidType.356aa0a8
+                0x00000000      0x189 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_Nfc_Activate.356aa0a8
+                0x00000000      0x1eb ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgTDes.356aa0a8
+                0x00000000      0x230 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSHA1.356aa0a8
+                0x00000000      0x1e2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSHA256.356aa0a8
+                0x00000000      0x1e1 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetRandom.356aa0a8
+                0x00000000      0x1b8 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetVer.356aa0a8
+                0x00000000      0x18b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecSetCfg.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetCfg.356aa0a8
+                0x00000000      0x189 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetKcv.356aa0a8
+                0x00000000      0x1f6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecKeyErase.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecLoadKey.356aa0a8
+                0x00000000      0x1bf ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecSetIntervaltime.356aa0a8
+                0x00000000      0x1c7 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecSetFunctionKey.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetMac.356aa0a8
+                0x00000000      0x24b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetPin.356aa0a8
+                0x00000000      0x283 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecCalcDes.356aa0a8
+                0x00000000      0x271 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecVerifyPlainPin.356aa0a8
+                0x00000000      0x25b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecVerifyCipherPin.356aa0a8
+                0x00000000      0x28b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecLoadTIK.356aa0a8
+                0x00000000      0x271 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetDukptKsn.356aa0a8
+                0x00000000      0x1c6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecIncreaseDukptKsn.356aa0a8
+                0x00000000      0x18d ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetPinDukpt.356aa0a8
+                0x00000000      0x2a6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetMacDukpt.356aa0a8
+                0x00000000      0x26f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecCalcDesDukpt.356aa0a8
+                0x00000000      0x2da ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecLoadRsaKey.356aa0a8
+                0x00000000      0x1cf ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecRecover.356aa0a8
+                0x00000000      0x224 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetPinResult.356aa0a8
+                0x00000000      0x1be ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecSetKeyOwner.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetTamperStatus.356aa0a8
+                0x00000000      0x182 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecSetContrl.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecGetPinResultDukpt.356aa0a8
+                0x00000000      0x1e9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScrDrawBitmapV.356aa0a8
+                0x00000000      0x22f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_RegisterTimerRoutine.356aa0a8
+                0x00000000      0x1c4 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_DeRegisterTimer.356aa0a8
+                0x00000000      0x151 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnInit.356aa0a8
+                0x00000000      0x190 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnStr.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnStart.356aa0a8
+                0x00000000      0x152 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnImage.356aa0a8
+                0x00000000      0x20a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnGetVersion.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetFont.356aa0a8
+                0x00000000      0x1bc ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnGetStatus.356aa0a8
+                0x00000000      0x186 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetMode.356aa0a8
+                0x00000000      0x1c8 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetGreyScale.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetForm.356aa0a8
+                0x00000000      0x1e3 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnFeedByPixel.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetUnderLine.356aa0a8
+                0x00000000      0x18b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnFontRegister.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetUsrFont.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnGetDotLine.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnPicture.356aa0a8
+                0x00000000      0x1b9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetPageLen.356aa0a8
+                0x00000000      0x17f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnLoadBDFFont.356aa0a8
+                0x00000000      0x188 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnBDFStr.356aa0a8
+                0x00000000      0x187 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PrnSetBDF.356aa0a8
+                0x00000000      0x234 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AudioTXSel.356aa0a8
+                0x00000000      0x18e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AudioTX_FreqSel.356aa0a8
+                0x00000000      0x18a ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_KbGetPad.356aa0a8
+                0x00000000      0x1bf ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_PlayVoice.356aa0a8
+                0x00000000      0x178 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysEnterBoot.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysPeerOper.356aa0a8
+                0x00000000      0x183 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysKeyVolSet.356aa0a8
+                0x00000000      0x17b ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTMfiParamSet.356aa0a8
+                0x00000000      0x1e9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTReadBondedDevices.356aa0a8
+                0x00000000      0x1b6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTWriteBondedDevices.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTDeleteBondedDevices.356aa0a8
+                0x00000000      0x17c ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetBleStatus.356aa0a8
+                0x00000000      0x185 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetMaxBondedDevices.356aa0a8
+                0x00000000      0x17d ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysSetConfigInfo.356aa0a8
+                0x00000000      0x1c2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTSetType.356aa0a8
+                0x00000000      0x17f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SecKeyDelete.356aa0a8
+                0x00000000      0x1bb ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_TSKbdGetXY.356aa0a8
+                0x00000000      0x1d9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_TSKbd_Ctrl.356aa0a8
+                0x00000000      0x17f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysReadyToSuspend.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScanDoScan.356aa0a8
+                0x00000000      0x1e7 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScanStart.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_ScanExit.356aa0a8
+                0x00000000      0x150 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_SysGetRemainRAMInfo.356aa0a8
+                0x00000000      0x1ad ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsClearAppFile.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsDir.356aa0a8
+                0x00000000      0x1e2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_FsGetDiskSpace.356aa0a8
+                0x00000000      0x1ba ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AppDataSave.356aa0a8
+                0x00000000      0x1d9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AppDataVerify.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AppUpdate.356aa0a8
+                0x00000000      0x181 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgRSAKeyPairGen.356aa0a8
+                0x00000000      0x220 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgRSARecover.356aa0a8
+                0x00000000      0x235 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgRSAKeyPairVerify.356aa0a8
+                0x00000000      0x1c5 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2KeyPairGen.356aa0a8
+                0x00000000      0x1b0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2Encrypt.356aa0a8
+                0x00000000      0x250 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2Decrypt.356aa0a8
+                0x00000000      0x251 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2Sign.356aa0a8
+                0x00000000      0x1d9 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2Verify.356aa0a8
+                0x00000000      0x1e6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM2GenE.356aa0a8
+                0x00000000      0x268 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM3Start.356aa0a8
+                0x00000000      0x14f ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM3Update.356aa0a8
+                0x00000000      0x1b0 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM3Final.356aa0a8
+                0x00000000      0x1dc ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM3Compute.356aa0a8
+                0x00000000      0x1db ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_AlgSM4Compute.356aa0a8
+                0x00000000      0x263 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_NDK_BTFlashUpgrade.356aa0a8
+                0x00000000      0x14e ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_request_func.356aa0a8
+                0x00000000      0x1ea ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_clr_sec.356aa0a8
+                0x00000000      0x1af ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_clr_apppk.356aa0a8
+                0x00000000      0x1b2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_get_SecApppk.356aa0a8
+                0x00000000      0x184 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_write_pn.356aa0a8
+                0x00000000      0x1da ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_write_sn.356aa0a8
+                0x00000000      0x1da ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_auth_write_pnsn.356aa0a8
+                0x00000000      0x1f8 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_appmod.356aa0a8
+                0x00000000       0xfa ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.symbol_nodes.356aa0a8
+                0x00000000      0x764 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.refs.356aa0a8
+                0x00000000      0x212 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.decls.356aa0a8
+                0x00000000     0x9da2 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.symtab.356aa0a8
+                0x00000000     0x20f6 ../lib/ME32/NDK_sysapi.o
+ .gnu.lto_.opts
+                0x00000000      0x112 ../lib/ME32/NDK_sysapi.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20006000         0x00008000
+NOR              0x01054000         0x0002c000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../lib/ME32/NDK_sysapi.o
+LOAD ../o/ME32/main.o
+LOAD ../o/ME32/gui.o
+LOAD ../o/ME32/lib.o
+LOAD ../o/ME32/conf.o
+LOAD ../o/ME32/layer.o
+LOAD ../o/ME32/tools.o
+LOAD ../o/ME32/_systest.o
+
+.mod_init       0x01054000       0x28
+                0x01054000                _stext = .
+ *(.mod.header)
+ .mod.header    0x01054000       0x28 ../lib/ME32/NDK_sysapi.o
+
+.text           0x01054028    0x104b0
+                0x01054028                . = ALIGN (0x4)
+ *(.text)
+ .text          0x01054028        0x0 ../lib/ME32/NDK_sysapi.o
+ .text          0x01054028        0x0 ../o/ME32/main.o
+ .text          0x01054028      0x820 ../o/ME32/gui.o
+                0x01054028                GUI_GetLCDWidth
+                0x01054034                GUI_GetLCDHeight
+                0x01054040                GUI_GetFontWidth
+                0x0105404c                GUI_GetFontHeight
+                0x01054058                GUI_GetLCDSize
+                0x01054064                GUI_GetFontSize
+                0x01054074                NDK_ScrAutoUpdate
+                0x01054078                NDK_ScrSetViewPort
+                0x0105407c                NDK_ScrGetViewPort
+                0x01054098                NDK_ScrRefresh
+                0x0105409c                NDK_ScrSetFontType
+                0x010540a0                NDK_NetPing
+                0x010540a4                NDK_NetGetAddr
+                0x010540a8                NDK_SysSetSuspend
+                0x010540ac                GUI_DispStringEx
+                0x010540de                ShowMessageBox
+                0x010543bc                cls_show_msg
+                0x01054424                cls_show_msg1
+                0x01054490                cls_show_msg1_record
+                0x01054584                cls_show_msg_record
+                0x0105468c                cls_printf
+                0x010546f4                show_msg1
+                0x0105475c                show_msg
+                0x010547c0                show_stopwatch
+ .text          0x01054848      0xafc ../o/ME32/lib.o
+                0x01054848                send_result
+                0x010548e8                select_test
+                0x010549c0                process
+                0x01054a84                jump2page
+                0x01054b14                auto_test
+                0x01054bb4                send_reporthead
+                0x01054c9c                __check_stripe_result_tk23
+                0x01054cc8                check_stripe_result_tk2
+                0x01054cd4                check_stripe_result_tk3
+                0x01054ce0                check_stripe_result_tk1
+                0x01054d20                readcard3
+                0x01054d7c                lib_StartStopwatch
+                0x01054d90                lib_ReadStopwatch
+                0x01054db8                lib_kbgetinput
+                0x01054dd0                ftos
+                0x01054e0c                lib_bt_pairing
+                0x01054ff0                update_BT_packet
+                0x0105502a                bt_cmd_packet
+                0x0105511c                bt_cmd_uppacket
+                0x01055154                bt_comm_once
+                0x01055308                lib_btmaster_scan
+                0x0105530e                connect_pair_process
+                0x01055314                lib_btmaster_pairing
+                0x0105531a                lib_btmaster_getconstatus
+                0x01055320                touchscrean_getnum
+                0x01055324                GetWifiStopflag
+                0x01055330                SetWifiStopflag
+                0x0105533c                lib_doscan
+ .text          0x01055344      0xae4 ../o/ME32/conf.o
+                0x01055344                conf_prn
+                0x01055346                lib_initprn
+                0x0105534a                PppSetUsrCfg
+                0x01055350                conf_conn_PPP
+                0x01055356                conf_conn_MDM
+                0x0105535c                select_serial
+                0x01055370                conf_serial
+                0x010553f8                conf_local
+                0x010556dc                conf_server
+                0x01055988                conf_network
+                0x010559a0                conf_trans
+                0x010559a6                conf_conn_ETH
+                0x010559ac                conf_conn_sock
+                0x010559b2                conf_conn_WLM
+                0x010559b8                conf_conn_DNS
+                0x01055a08                use_wifi_conf
+                0x01055a0e                conf_WLAN_lnk1
+                0x01055a10                conf_conn_WLAN
+                0x01055a16                conf_wifi_AP
+                0x01055a1c                conf_conn_AP
+                0x01055a22                set_disktype
+                0x01055a24                get_disktype
+                0x01055a2a                conf_disktype
+                0x01055a30                conf_bt
+                0x01055d18                conf_link
+                0x01055db0                conf_conn_BT
+                0x01055e04                conf_nfc_datatype
+                0x01055e10                conf_camera
+                0x01055e1c                conf_scan
+ .text          0x01055e28      0x590 ../o/ME32/layer.o
+                0x01055e28                serial_clrportbuf_all
+                0x01055e40                init_linksetting
+                0x01055f4c                setlinktype
+                0x01055f58                getlinktype
+                0x01055f64                init_netsetting
+                0x0105601c                set_linkstatus_down
+                0x01056028                set_netstatus_down
+                0x01056034                GetCurrentEndianType
+                0x01056038                INET_ADDR
+                0x0105603c                INET_NTOA
+                0x01056060                HTONS
+                0x01056062                HTONL
+                0x01056064                create_0203pack
+                0x0105609a                mdm_detectCONNECT
+                0x010560a0                mdm_dial
+                0x010560a6                mdm_hangup
+                0x010560ac                update_SDLC_packet
+                0x010560ae                __LinkUp_SDLC
+                0x010560b4                __LinkDown_SDLC
+                0x010560ba                getmodemreadlenN
+                0x010560c0                update_ASYN_packet
+                0x010560c2                ASYNDial4PPP
+                0x010560c8                __LinkUp_ASYN
+                0x010560ce                __LinkDown_ASYN
+                0x010560d4                WM_PPP_16300_DIAL
+                0x010560da                __LinkUp_WLM
+                0x010560e0                __LinkDown_WLM
+                0x010560e6                __LinkUp_ETH
+                0x010560ec                __LinkDown_ETH
+                0x010560f2                __NetUp_ETH
+                0x010560f8                __NetDown_ETH
+                0x010560fe                __LinkUp_WLAN
+                0x01056104                __LinkDown_WLAN
+                0x0105610a                __NetUp_WLAN
+                0x01056110                __NetDown_WLAN
+                0x01056116                lib_GetLocalAddr
+                0x0105611c                WaitPPPState
+                0x01056122                __NetUp_PPP
+                0x01056128                __NetDown_PPP
+                0x0105612e                LinkUp4AsynPPP
+                0x01056144                LinkUp
+                0x01056198                NetUp
+                0x0105622c                NDKTransReceiveN
+                0x01056232                NDKTransSendN
+                0x01056238                WaitNDKSSLState
+                0x0105623e                NDKSSLReceiveN
+                0x01056244                NDKSSLSendN
+                0x0105624a                __TransUp
+                0x01056284                TransUp
+                0x01056298                __TransDown
+                0x010562d4                TransDown
+                0x010562e8                NetDown
+                0x0105633c                LinkDown
+                0x0105638c                IsNetConnected
+ .text          0x010563b8      0x46c ../o/ME32/tools.o
+                0x010563b8                time
+                0x010563d8                Beep
+                0x01056400                lib_getkeycode
+                0x01056412                lib_kbhit
+                0x01056418                wait_anykey
+                0x01056492                is_digit_str
+                0x010564c0                MemCmp
+                0x01056512                debug_buf
+                0x01056558                MakeLRC
+                0x0105656e                Data2BCD
+                0x010565a8                IsContinuous
+                0x010565ba                FGetC
+                0x010565d8                FGets
+                0x01056612                GetParaInfo
+                0x010566bc                trim_string2int
+                0x010566f8                trim_string
+                0x01056734                trim_left_string
+                0x01056786                trim_char2uchar
+ .text          0x01056824     0x13cc ../o/ME32/_systest.o(systest.o)
+                0x01056824                GetCycleValue
+                0x01056830                GetCommPackLen
+                0x0105683c                conf_conn_LAN
+                0x01056842                create_recv_only_packet
+                0x01056844                send_recv_press
+                0x01056846                recv_only_press
+                0x01056848                send_only_press
+                0x0105684a                systest
+                0x01056d40                MagcardReadTest
+                0x01056fbc                systest_MagCard
+                0x01056fc6                set_snd_packet
+                0x0105724c                update_snd_packet
+                0x01057358                init_snd_packet
+                0x0105736a                NDK_RfidFelicaApdu
+                0x01057370                NDK_RfidFelicaPoll
+                0x01057376                RFID_init
+                0x010573ba                RFID_detect
+                0x010574c0                RFID_detect_poll
+                0x01057590                RFID_active
+                0x01057644                RFID_APDUrw
+                0x010577f4                RFID_deactive
+                0x01057804                RFID_finish
+                0x01057812                select_ICSAM
+                0x010578f0                ICSAM_detect
+                0x01057900                ICSAM_APDUrw
+                0x010579a8                select_smarttype
+                0x01057a6c                smart_detect
+                0x01057ab6                smart_active
+                0x01057ad6                smart_APDUrw
+                0x01057b06                smart_deactive
+                0x01057b28                systest_SDCard
+                0x01057b2e                systest_touch
+                0x01057b34                Local2Global
+                0x01057b90                Global2Local
+ .text          0x01057bf0      0xac8 ../o/ME32/_systest.o(systest5.o)
+                0x01057bf0                IC_abnormal1
+                0x01057e7c                IC_abnormal2
+                0x01058078                IC_abnormal
+                0x010580a0                systest5
+ .text          0x010586b8      0x210 ../o/ME32/_systest.o(systest6.o)
+                0x010586b8                mag_abnormal
+                0x010586f0                systest6
+ .text          0x010588c8     0x1560 ../o/ME32/_systest.o(systest7.o)
+                0x01059b30                systest7
+ .text          0x01059e28      0xcb4 ../o/ME32/_systest.o(systest8.o)
+                0x0105a930                systest8
+ .text          0x0105aadc      0x168 ../o/ME32/_systest.o(systest10.o)
+                0x0105aadc                systest10
+ .text          0x0105ac44      0x130 ../o/ME32/_systest.o(systest12.o)
+                0x0105ad0c                systest12
+ .text          0x0105ad74      0xbb4 ../o/ME32/_systest.o(systest13.o)
+                0x0105b4cc                systest13
+ .text          0x0105b928      0x350 ../o/ME32/_systest.o(systest24.o)
+                0x0105b928                systest24
+ .text          0x0105bc78      0x534 ../o/ME32/_systest.o(systest25.o)
+                0x0105be9c                systest25
+ .text          0x0105c1ac      0xeec ../o/ME32/_systest.o(systest32.o)
+                0x0105c9bc                usb_openclosepress
+                0x0105cac8                usb_abnormal
+                0x0105ce0c                usb_press
+                0x0105ce58                usb_host_openclosepress
+                0x0105ce5a                usb_host_comm_usb
+                0x0105ce5c                usb_host_recv_data
+                0x0105ce5e                usb_host_abnormal
+                0x0105ce60                usb_host_press
+                0x0105ce6c                usb_host_U
+                0x0105ce6e                host_usb_slave
+                0x0105ce70                usb_change_press
+                0x0105ce7c                usb_client
+                0x0105d020                systest32
+ .text          0x0105d098     0x1888 ../o/ME32/_systest.o(systest34.o)
+                0x0105e2bc                memroy_abnormal_test
+                0x0105e4c0                memory_rw_press
+                0x0105e618                memory_press
+                0x0105e790                systest34
+ .text          0x0105e920      0x1f8 ../o/ME32/_systest.o(systest47.o)
+                0x0105e920                SysBeep_press
+                0x0105e9d0                SysTimeBeep_press
+                0x0105ea88                SysTimeBeepUnblock_press
+                0x0105ea94                systest47
+ .text          0x0105eb18      0x1d8 ../o/ME32/_systest.o(systest48.o)
+                0x0105eb18                systest48
+ .text          0x0105ecf0      0x424 ../o/ME32/_systest.o(systest49.o)
+                0x0105ecf0                threecard_test
+                0x0105f058                systest49
+ .text          0x0105f114      0x1bc ../o/ME32/_systest.o(systest50.o)
+                0x0105f114                rfid_input
+                0x0105f214                systest50
+ .text          0x0105f2d0     0x17c8 ../o/ME32/_systest.o(systest57.o)
+                0x0105fe38                abnormal_test1
+                0x0105ff7c                abnormal_test2
+                0x01060010                abnormal_test3
+                0x01060080                abnormal_test4
+                0x010600fc                abnormal_test5
+                0x01060304                abnormal_test6
+                0x01060588                wati_paraing
+                0x010606d4                bt_client_ras
+                0x01060788                bt_client
+                0x01060990                systest57
+ .text          0x01060a98      0x484 ../o/ME32/_systest.o(systest58.o)
+                0x01060e8c                systest58
+ .text          0x01060f1c      0x328 ../o/ME32/_systest.o(systest63.o)
+                0x010611e4                systest63
+ .text          0x01061244      0x588 ../o/ME32/_systest.o(systest64.o)
+                0x0106163c                systest64
+ .text          0x010617cc      0x370 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubdf3.o)
+                0x010617cc                __aeabi_drsub
+                0x010617d4                __aeabi_dsub
+                0x010617d4                __subdf3
+                0x010617d8                __aeabi_dadd
+                0x010617d8                __adddf3
+                0x01061a50                __floatunsidf
+                0x01061a50                __aeabi_ui2d
+                0x01061a70                __floatsidf
+                0x01061a70                __aeabi_i2d
+                0x01061a94                __aeabi_f2d
+                0x01061a94                __extendsfdf2
+                0x01061ad0                __floatundidf
+                0x01061ad0                __aeabi_ul2d
+                0x01061ae0                __floatdidf
+                0x01061ae0                __aeabi_l2d
+ .text          0x01061b3c      0x424 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivdf3.o)
+                0x01061b3c                __aeabi_dmul
+                0x01061b3c                __muldf3
+                0x01061d90                __divdf3
+                0x01061d90                __aeabi_ddiv
+ .text          0x01061f60       0x40 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixunsdfsi.o)
+                0x01061f60                __aeabi_d2uiz
+                0x01061f60                __fixunsdfsi
+ .text          0x01061fa0       0xa0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_truncdfsf2.o)
+                0x01061fa0                __truncdfsf2
+                0x01061fa0                __aeabi_d2f
+ .text          0x01062040      0x21c f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubsf3.o)
+                0x01062040                __aeabi_frsub
+                0x01062048                __subsf3
+                0x01062048                __aeabi_fsub
+                0x0106204c                __aeabi_fadd
+                0x0106204c                __addsf3
+                0x010621ac                __aeabi_ui2f
+                0x010621ac                __floatunsisf
+                0x010621b4                __aeabi_i2f
+                0x010621b4                __floatsisf
+                0x010621d0                __aeabi_ul2f
+                0x010621d0                __floatundisf
+                0x010621e0                __aeabi_l2f
+                0x010621e0                __floatdisf
+ .text          0x0106225c      0x2a0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivsf3.o)
+                0x0106225c                __mulsf3
+                0x0106225c                __aeabi_fmul
+                0x010623c4                __aeabi_fdiv
+                0x010623c4                __divsf3
+ .text          0x010624fc       0xec f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_cmpsf2.o)
+                0x010624fc                __gesf2
+                0x010624fc                __gtsf2
+                0x01062504                __lesf2
+                0x01062504                __ltsf2
+                0x0106250c                __nesf2
+                0x0106250c                __eqsf2
+                0x0106250c                __cmpsf2
+                0x0106256c                __aeabi_cfrcmple
+                0x01062574                __aeabi_cfcmpeq
+                0x01062574                __aeabi_cfcmple
+                0x01062584                __aeabi_fcmpeq
+                0x01062598                __aeabi_fcmplt
+                0x010625ac                __aeabi_fcmple
+                0x010625c0                __aeabi_fcmpge
+                0x010625d4                __aeabi_fcmpgt
+ .text          0x010625e8       0x4c f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixsfsi.o)
+                0x010625e8                __aeabi_f2iz
+                0x010625e8                __fixsfsi
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(memset.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strstr.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(strtol.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(div.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .text          0x01062634        0x0 ../lib/ME32/libc_Cortex-M.a(memchr.o)
+ *(.text.*)
+ .text.default_fn
+                0x01062634        0x4 ../lib/ME32/NDK_sysapi.o
+                0x01062634                default_fn
+                0x01062634                appmod_export
+                0x01062634                appmod_init
+ .text.module_init
+                0x01062638       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062638                module_init
+ .text.NDK_BTHWReset
+                0x01062648       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062648                NDK_BTHWReset
+ .text.NDK_BTSuspend
+                0x01062658       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062658                NDK_BTSuspend
+ .text.NDK_ScrInitGui
+                0x01062668        0x4 ../lib/ME32/NDK_sysapi.o
+                0x01062668                NDK_ScrInitGui
+ .text.NDK_ScrGotoxy
+                0x0106266c        0xc ../lib/ME32/NDK_sysapi.o
+                0x0106266c                NDK_ScrGotoxy
+ .text.NDK_ScrGetxy
+                0x01062678        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062678                NDK_ScrGetxy
+ .text.NDK_ScrBackLight
+                0x01062684        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062684                NDK_ScrBackLight
+ .text.NDK_ScrSetAttr
+                0x01062690        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062690                NDK_ScrSetAttr
+ .text.NDK_ScrPush
+                0x0106269c        0xc ../lib/ME32/NDK_sysapi.o
+                0x0106269c                NDK_ScrPush
+ .text.NDK_ScrPop
+                0x010626a8        0xc ../lib/ME32/NDK_sysapi.o
+                0x010626a8                NDK_ScrPop
+ .text.NDK_ScrDispString
+                0x010626b4       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010626b4                NDK_ScrDispString
+ .text.NDK_ScrGetPixel
+                0x010626c8        0xc ../lib/ME32/NDK_sysapi.o
+                0x010626c8                NDK_ScrGetPixel
+ .text.NDK_ScrPutPixel
+                0x010626d4        0xc ../lib/ME32/NDK_sysapi.o
+                0x010626d4                NDK_ScrPutPixel
+ .text.NDK_ScrLine
+                0x010626e0       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010626e0                NDK_ScrLine
+ .text.NDK_ScrRectangle
+                0x010626f4       0x18 ../lib/ME32/NDK_sysapi.o
+                0x010626f4                NDK_ScrRectangle
+ .text.NDK_ScrClrLine
+                0x0106270c        0xc ../lib/ME32/NDK_sysapi.o
+                0x0106270c                NDK_ScrClrLine
+ .text.NDK_ScrDrawBitmap
+                0x01062718       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062718                NDK_ScrDrawBitmap
+ .text.NDK_ScrSetContrast
+                0x0106272c        0xc ../lib/ME32/NDK_sysapi.o
+                0x0106272c                NDK_ScrSetContrast
+ .text.NDK_ScrGetLcdSize
+                0x01062738        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062738                NDK_ScrGetLcdSize
+ .text.NDK_ScrClrs
+                0x01062744        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062744                NDK_ScrClrs
+ .text.NDK_ScrGetFontSize
+                0x01062750        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062750                NDK_ScrGetFontSize
+ .text.NDK_ScrDispPic
+                0x0106275c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x0106275c                NDK_ScrDispPic
+ .text.NDK_ScrLoadBDF
+                0x01062770       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062770                NDK_ScrLoadBDF
+ .text.NDK_ScrDispBDFText
+                0x01062784       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062784                NDK_ScrDispBDFText
+ .text.NDK_ScrPrintf
+                0x01062798       0x48 ../lib/ME32/NDK_sysapi.o
+                0x01062798                NDK_ScrPrintf
+ .text.NDK_KbHit
+                0x010627e0        0xc ../lib/ME32/NDK_sysapi.o
+                0x010627e0                NDK_KbHit
+ .text.NDK_KbFlush
+                0x010627ec        0xc ../lib/ME32/NDK_sysapi.o
+                0x010627ec                NDK_KbFlush
+ .text.NDK_KbGetCode
+                0x010627f8        0xc ../lib/ME32/NDK_sysapi.o
+                0x010627f8                NDK_KbGetCode
+ .text.NDK_KbGetInput
+                0x01062804       0x20 ../lib/ME32/NDK_sysapi.o
+                0x01062804                NDK_KbGetInput
+ .text.NDK_KbScanCode
+                0x01062824       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062824                NDK_KbScanCode
+ .text.NDK_PortOpen
+                0x01062834        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062834                NDK_PortOpen
+ .text.NDK_PortClose
+                0x01062840        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062840                NDK_PortClose
+ .text.NDK_PortRead
+                0x0106284c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x0106284c                NDK_PortRead
+ .text.NDK_PortWrite
+                0x01062860        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062860                NDK_PortWrite
+ .text.NDK_PortTxSendOver
+                0x0106286c        0xc ../lib/ME32/NDK_sysapi.o
+                0x0106286c                NDK_PortTxSendOver
+ .text.NDK_PortClrBuf
+                0x01062878        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062878                NDK_PortClrBuf
+ .text.NDK_PortReadLen
+                0x01062884        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062884                NDK_PortReadLen
+ .text.NDK_IccGetVersion
+                0x01062890       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062890                NDK_IccGetVersion
+ .text.NDK_IccDetect
+                0x010628a0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010628a0                NDK_IccDetect
+ .text.NDK_IccPowerUp
+                0x010628b0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010628b0                NDK_IccPowerUp
+ .text.NDK_IccPowerDown
+                0x010628c0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010628c0                NDK_IccPowerDown
+ .text.NDK_Iccrw
+                0x010628d0       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010628d0                NDK_Iccrw
+ .text.NDK_MagOpen
+                0x010628e4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010628e4                NDK_MagOpen
+ .text.NDK_MagClose
+                0x010628f4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010628f4                NDK_MagClose
+ .text.NDK_MagReset
+                0x01062904       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062904                NDK_MagReset
+ .text.NDK_MagSwiped
+                0x01062914       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062914                NDK_MagSwiped
+ .text.NDK_MagReadNormal
+                0x01062924       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062924                NDK_MagReadNormal
+ .text.NDK_FsOpen
+                0x01062938       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062938                NDK_FsOpen
+ .text.NDK_FsClose
+                0x01062948       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062948                NDK_FsClose
+ .text.NDK_FsRead
+                0x01062958       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062958                NDK_FsRead
+ .text.NDK_FsWrite
+                0x01062968       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062968                NDK_FsWrite
+ .text.NDK_FsSeek
+                0x01062978       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062978                NDK_FsSeek
+ .text.NDK_FsDel
+                0x01062988       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062988                NDK_FsDel
+ .text.NDK_FsFileSize
+                0x01062998       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062998                NDK_FsFileSize
+ .text.NDK_FsExist
+                0x010629a8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010629a8                NDK_FsExist
+ .text.NDK_FsTruncate
+                0x010629b8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010629b8                NDK_FsTruncate
+ .text.NDK_FsTell
+                0x010629c8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010629c8                NDK_FsTell
+ .text.NDK_FsRename
+                0x010629d8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010629d8                NDK_FsRename
+ .text.NDK_FsFormat
+                0x010629e8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010629e8                NDK_FsFormat
+ .text.NDK_Getlibver
+                0x010629f8        0xc ../lib/ME32/NDK_sysapi.o
+                0x010629f8                NDK_Getlibver
+ .text.NDK_SysDelay
+                0x01062a04        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062a04                NDK_SysDelay
+ .text.NDK_SysMsDelay
+                0x01062a10        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062a10                NDK_SysMsDelay
+ .text.NDK_SysReboot
+                0x01062a1c        0xc ../lib/ME32/NDK_sysapi.o
+                0x01062a1c                NDK_SysReboot
+ .text.NDK_SysShutDown
+                0x01062a28       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062a28                NDK_SysShutDown
+ .text.NDK_SysBeep
+                0x01062a38       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062a38                NDK_SysBeep
+ .text.NDK_SysGoSuspend
+                0x01062a48       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062a48                NDK_SysGoSuspend
+ .text.NDK_SysGetPowerVol
+                0x01062a58       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062a58                NDK_SysGetPowerVol
+ .text.NDK_SysSetPosTime
+                0x01062a68       0x34 ../lib/ME32/NDK_sysapi.o
+                0x01062a68                NDK_SysSetPosTime
+ .text.NDK_SysGetPosTime
+                0x01062a9c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062a9c                NDK_SysGetPosTime
+ .text.NDK_LedStatus
+                0x01062aac       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062aac                NDK_LedStatus
+ .text.NDK_SysStartWatch
+                0x01062abc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062abc                NDK_SysStartWatch
+ .text.NDK_SysReadWatch
+                0x01062acc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062acc                NDK_SysReadWatch
+ .text.NDK_SysStopWatch
+                0x01062adc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062adc                NDK_SysStopWatch
+ .text.NDK_SysTimeBeep
+                0x01062aec       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062aec                NDK_SysTimeBeep
+ .text.NDK_SysGetConfigInfo
+                0x01062afc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062afc                NDK_SysGetConfigInfo
+ .text.NDK_SysGetPosInfo
+                0x01062b0c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b0c                NDK_SysGetPosInfo
+ .text.NDK_SysGetPowerVolRange
+                0x01062b1c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b1c                NDK_SysGetPowerVolRange
+ .text.NDK_SysSetPosInfo
+                0x01062b2c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b2c                NDK_SysSetPosInfo
+ .text.NDK_SysSetShutdownDelay
+                0x01062b3c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b3c                NDK_SysSetShutdownDelay
+ .text.NDK_SysTime
+                0x01062b4c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b4c                NDK_SysTime
+ .text.NDK_AppRun
+                0x01062b5c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b5c                NDK_AppRun
+ .text.NDK_LibLoad
+                0x01062b6c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b6c                NDK_LibLoad
+ .text.NDK_AppLoad
+                0x01062b7c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062b7c                NDK_AppLoad
+ .text.NDK_AddDigitStr
+                0x01062b8c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062b8c                NDK_AddDigitStr
+ .text.NDK_IncNum
+                0x01062ba0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ba0                NDK_IncNum
+ .text.NDK_FmtAmtStr
+                0x01062bb0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062bb0                NDK_FmtAmtStr
+ .text.NDK_AscToHex
+                0x01062bc0       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062bc0                NDK_AscToHex
+ .text.NDK_HexToAsc
+                0x01062bd4       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062bd4                NDK_HexToAsc
+ .text.NDK_IntToC4
+                0x01062be8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062be8                NDK_IntToC4
+ .text.NDK_IntToC2
+                0x01062bf8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062bf8                NDK_IntToC2
+ .text.NDK_C4ToInt
+                0x01062c08       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c08                NDK_C4ToInt
+ .text.NDK_C2ToInt
+                0x01062c18       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c18                NDK_C2ToInt
+ .text.NDK_ByteToBcd
+                0x01062c28       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c28                NDK_ByteToBcd
+ .text.NDK_BcdToByte
+                0x01062c38       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c38                NDK_BcdToByte
+ .text.NDK_IntToBcd
+                0x01062c48       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c48                NDK_IntToBcd
+ .text.NDK_BcdToInt
+                0x01062c58       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c58                NDK_BcdToInt
+ .text.NDK_CalcLRC
+                0x01062c68       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c68                NDK_CalcLRC
+ .text.NDK_LeftTrim
+                0x01062c78       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c78                NDK_LeftTrim
+ .text.NDK_RightTrim
+                0x01062c88       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c88                NDK_RightTrim
+ .text.NDK_AllTrim
+                0x01062c98       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062c98                NDK_AllTrim
+ .text.NDK_AddSymbolToStr
+                0x01062ca8       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062ca8                NDK_AddSymbolToStr
+ .text.NDK_SubStr
+                0x01062cbc       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062cbc                NDK_SubStr
+ .text.NDK_IsDigitChar
+                0x01062cd0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062cd0                NDK_IsDigitChar
+ .text.NDK_IsDigitStr
+                0x01062ce0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ce0                NDK_IsDigitStr
+ .text.NDK_IsLeapYear
+                0x01062cf0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062cf0                NDK_IsLeapYear
+ .text.NDK_MonthDays
+                0x01062d00       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d00                NDK_MonthDays
+ .text.NDK_IsValidDate
+                0x01062d10       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d10                NDK_IsValidDate
+ .text.NDK_BTReset
+                0x01062d20       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d20                NDK_BTReset
+ .text.NDK_BTGetLocalName
+                0x01062d30       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d30                NDK_BTGetLocalName
+ .text.NDK_BTEnterCommand
+                0x01062d40       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d40                NDK_BTEnterCommand
+ .text.NDK_BTExitCommand
+                0x01062d50       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d50                NDK_BTExitCommand
+ .text.NDK_BTGetLocalMAC
+                0x01062d60       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d60                NDK_BTGetLocalMAC
+ .text.NDK_BTSetLocalMAC
+                0x01062d70       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d70                NDK_BTSetLocalMAC
+ .text.NDK_BTGetPIN
+                0x01062d80       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d80                NDK_BTGetPIN
+ .text.NDK_BTSetLocalName
+                0x01062d90       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062d90                NDK_BTSetLocalName
+ .text.NDK_BTSetPIN
+                0x01062da0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062da0                NDK_BTSetPIN
+ .text.NDK_BTGetChannel
+                0x01062db0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062db0                NDK_BTGetChannel
+ .text.NDK_BTSetChannel
+                0x01062dc0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062dc0                NDK_BTSetChannel
+ .text.NDK_BTStatus
+                0x01062dd0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062dd0                NDK_BTStatus
+ .text.NDK_BTDisconnect
+                0x01062de0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062de0                NDK_BTDisconnect
+ .text.NDK_BTSetPairingMode
+                0x01062df0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062df0                NDK_BTSetPairingMode
+ .text.NDK_BTGetPairingStatus
+                0x01062e00       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e00                NDK_BTGetPairingStatus
+ .text.NDK_BTConfirmPairing
+                0x01062e10       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e10                NDK_BTConfirmPairing
+ .text.NDK_BTSetPINCode
+                0x01062e20       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e20                NDK_BTSetPINCode
+ .text.NDK_BTSetDiscoverableStatus
+                0x01062e30       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e30                NDK_BTSetDiscoverableStatus
+ .text.NDK_MFI_CHECK
+                0x01062e40       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e40                NDK_MFI_CHECK
+ .text.NDK_RfidVersion
+                0x01062e50       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e50                NDK_RfidVersion
+ .text.NDK_RfidInit
+                0x01062e60       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e60                NDK_RfidInit
+ .text.NDK_RfidOpenRf
+                0x01062e70       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e70                NDK_RfidOpenRf
+ .text.NDK_RfidCloseRf
+                0x01062e80       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e80                NDK_RfidCloseRf
+ .text.NDK_RfidPiccState
+                0x01062e90       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062e90                NDK_RfidPiccState
+ .text.NDK_RfidSuspend
+                0x01062ea0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ea0                NDK_RfidSuspend
+ .text.NDK_RfidResume
+                0x01062eb0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062eb0                NDK_RfidResume
+ .text.NDK_RfidPiccType
+                0x01062ec0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ec0                NDK_RfidPiccType
+ .text.NDK_RfidPiccDetect
+                0x01062ed0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ed0                NDK_RfidPiccDetect
+ .text.NDK_RfidPiccActivate
+                0x01062ee0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ee0                NDK_RfidPiccActivate
+ .text.NDK_RfidPiccDeactivate
+                0x01062ef0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ef0                NDK_RfidPiccDeactivate
+ .text.NDK_RfidPiccApdu
+                0x01062f00       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062f00                NDK_RfidPiccApdu
+ .text.NDK_M1Request
+                0x01062f14       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f14                NDK_M1Request
+ .text.NDK_M1Anti
+                0x01062f24       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f24                NDK_M1Anti
+ .text.NDK_M1Select
+                0x01062f34       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f34                NDK_M1Select
+ .text.NDK_M1KeyStore
+                0x01062f44       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f44                NDK_M1KeyStore
+ .text.NDK_M1KeyLoad
+                0x01062f54       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f54                NDK_M1KeyLoad
+ .text.NDK_M1InternalAuthen
+                0x01062f64       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01062f64                NDK_M1InternalAuthen
+ .text.NDK_M1ExternalAuthen
+                0x01062f78       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01062f78                NDK_M1ExternalAuthen
+ .text.NDK_M1Read
+                0x01062f94       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062f94                NDK_M1Read
+ .text.NDK_M1Write
+                0x01062fa4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062fa4                NDK_M1Write
+ .text.NDK_M1Increment
+                0x01062fb4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062fb4                NDK_M1Increment
+ .text.NDK_M1Decrement
+                0x01062fc4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062fc4                NDK_M1Decrement
+ .text.NDK_M1Transfer
+                0x01062fd4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062fd4                NDK_M1Transfer
+ .text.NDK_M1Restore
+                0x01062fe4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062fe4                NDK_M1Restore
+ .text.NDK_M1halt
+                0x01062ff4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01062ff4                NDK_M1halt
+ .text.NDK_RfidTypeARats
+                0x01063004       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063004                NDK_RfidTypeARats
+ .text.NDK_PiccQuickRequest
+                0x01063014       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063014                NDK_PiccQuickRequest
+ .text.NDK_SetIgnoreProtocol
+                0x01063024       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063024                NDK_SetIgnoreProtocol
+ .text.NDK_GetIgnoreProtocol
+                0x01063034       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063034                NDK_GetIgnoreProtocol
+ .text.NDK_GetRfidType
+                0x01063044       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063044                NDK_GetRfidType
+ .text.NDK_Nfc_Activate
+                0x01063054       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063054                NDK_Nfc_Activate
+ .text.NDK_AlgTDes
+                0x01063064       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063064                NDK_AlgTDes
+ .text.NDK_AlgSHA1
+                0x01063078       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063078                NDK_AlgSHA1
+ .text.NDK_AlgSHA256
+                0x01063088       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063088                NDK_AlgSHA256
+ .text.NDK_SecGetRandom
+                0x01063098       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063098                NDK_SecGetRandom
+ .text.NDK_SecGetVer
+                0x010630a8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630a8                NDK_SecGetVer
+ .text.NDK_SecSetCfg
+                0x010630b8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630b8                NDK_SecSetCfg
+ .text.NDK_SecGetCfg
+                0x010630c8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630c8                NDK_SecGetCfg
+ .text.NDK_SecGetKcv
+                0x010630d8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630d8                NDK_SecGetKcv
+ .text.NDK_SecKeyErase
+                0x010630e8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630e8                NDK_SecKeyErase
+ .text.NDK_SecLoadKey
+                0x010630f8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010630f8                NDK_SecLoadKey
+ .text.NDK_SecSetIntervaltime
+                0x01063108       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063108                NDK_SecSetIntervaltime
+ .text.NDK_SecSetFunctionKey
+                0x01063118       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063118                NDK_SecSetFunctionKey
+ .text.NDK_SecGetMac
+                0x01063128       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01063128                NDK_SecGetMac
+ .text.NDK_SecGetPin
+                0x01063144       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01063144                NDK_SecGetPin
+ .text.NDK_SecCalcDes
+                0x01063160       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01063160                NDK_SecCalcDes
+ .text.NDK_SecVerifyPlainPin
+                0x0106317c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x0106317c                NDK_SecVerifyPlainPin
+ .text.NDK_SecVerifyCipherPin
+                0x01063190       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01063190                NDK_SecVerifyCipherPin
+ .text.NDK_SecLoadTIK
+                0x010631ac       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010631ac                NDK_SecLoadTIK
+ .text.NDK_SecGetDukptKsn
+                0x010631c0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010631c0                NDK_SecGetDukptKsn
+ .text.NDK_SecIncreaseDukptKsn
+                0x010631d0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010631d0                NDK_SecIncreaseDukptKsn
+ .text.NDK_SecGetPinDukpt
+                0x010631e0       0x1c ../lib/ME32/NDK_sysapi.o
+                0x010631e0                NDK_SecGetPinDukpt
+ .text.NDK_SecGetMacDukpt
+                0x010631fc       0x1c ../lib/ME32/NDK_sysapi.o
+                0x010631fc                NDK_SecGetMacDukpt
+ .text.NDK_SecCalcDesDukpt
+                0x01063218       0x1c ../lib/ME32/NDK_sysapi.o
+                0x01063218                NDK_SecCalcDesDukpt
+ .text.NDK_SecLoadRsaKey
+                0x01063234       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063234                NDK_SecLoadRsaKey
+ .text.NDK_SecRecover
+                0x01063244       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063244                NDK_SecRecover
+ .text.NDK_SecGetPinResult
+                0x01063258       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063258                NDK_SecGetPinResult
+ .text.NDK_SecSetKeyOwner
+                0x01063268       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063268                NDK_SecSetKeyOwner
+ .text.NDK_SecGetTamperStatus
+                0x01063278       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063278                NDK_SecGetTamperStatus
+ .text.NDK_SecSetContrl
+                0x01063288       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063288                NDK_SecSetContrl
+ .text.NDK_SecGetPinResultDukpt
+                0x01063298       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063298                NDK_SecGetPinResultDukpt
+ .text.NDK_ScrDrawBitmapV
+                0x010632a8       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010632a8                NDK_ScrDrawBitmapV
+ .text.NDK_RegisterTimerRoutine
+                0x010632bc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010632bc                NDK_RegisterTimerRoutine
+ .text.NDK_DeRegisterTimer
+                0x010632cc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010632cc                NDK_DeRegisterTimer
+ .text.NDK_PrnInit
+                0x010632dc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010632dc                NDK_PrnInit
+ .text.NDK_PrnStr
+                0x010632ec       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010632ec                NDK_PrnStr
+ .text.NDK_PrnStart
+                0x010632fc       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010632fc                NDK_PrnStart
+ .text.NDK_PrnImage
+                0x0106330c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x0106330c                NDK_PrnImage
+ .text.NDK_PrnGetVersion
+                0x01063320       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063320                NDK_PrnGetVersion
+ .text.NDK_PrnSetFont
+                0x01063330       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063330                NDK_PrnSetFont
+ .text.NDK_PrnGetStatus
+                0x01063340       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063340                NDK_PrnGetStatus
+ .text.NDK_PrnSetMode
+                0x01063350       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063350                NDK_PrnSetMode
+ .text.NDK_PrnSetGreyScale
+                0x01063360       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063360                NDK_PrnSetGreyScale
+ .text.NDK_PrnSetForm
+                0x01063370       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063370                NDK_PrnSetForm
+ .text.NDK_PrnFeedByPixel
+                0x01063380       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063380                NDK_PrnFeedByPixel
+ .text.NDK_PrnSetUnderLine
+                0x01063390       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063390                NDK_PrnSetUnderLine
+ .text.NDK_PrnFontRegister
+                0x010633a0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633a0                NDK_PrnFontRegister
+ .text.NDK_PrnSetUsrFont
+                0x010633b0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633b0                NDK_PrnSetUsrFont
+ .text.NDK_PrnGetDotLine
+                0x010633c0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633c0                NDK_PrnGetDotLine
+ .text.NDK_PrnPicture
+                0x010633d0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633d0                NDK_PrnPicture
+ .text.NDK_PrnSetPageLen
+                0x010633e0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633e0                NDK_PrnSetPageLen
+ .text.NDK_PrnLoadBDFFont
+                0x010633f0       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010633f0                NDK_PrnLoadBDFFont
+ .text.NDK_PrnBDFStr
+                0x01063400       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063400                NDK_PrnBDFStr
+ .text.NDK_PrnSetBDF
+                0x01063410       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063410                NDK_PrnSetBDF
+ .text.NDK_AudioTXSel
+                0x01063424       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063424                NDK_AudioTXSel
+ .text.NDK_AudioTX_FreqSel
+                0x01063434       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063434                NDK_AudioTX_FreqSel
+ .text.NDK_KbGetPad
+                0x01063444       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063444                NDK_KbGetPad
+ .text.NDK_PlayVoice
+                0x01063454       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063454                NDK_PlayVoice
+ .text.NDK_SysEnterBoot
+                0x01063464       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063464                NDK_SysEnterBoot
+ .text.NDK_SysPeerOper
+                0x01063474       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063474                NDK_SysPeerOper
+ .text.NDK_SysKeyVolSet
+                0x01063484       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063484                NDK_SysKeyVolSet
+ .text.NDK_BTMfiParamSet
+                0x01063494       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063494                NDK_BTMfiParamSet
+ .text.NDK_BTReadBondedDevices
+                0x010634a4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634a4                NDK_BTReadBondedDevices
+ .text.NDK_BTWriteBondedDevices
+                0x010634b4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634b4                NDK_BTWriteBondedDevices
+ .text.NDK_BTDeleteBondedDevices
+                0x010634c4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634c4                NDK_BTDeleteBondedDevices
+ .text.NDK_BTSetBleStatus
+                0x010634d4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634d4                NDK_BTSetBleStatus
+ .text.NDK_BTSetMaxBondedDevices
+                0x010634e4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634e4                NDK_BTSetMaxBondedDevices
+ .text.NDK_SysSetConfigInfo
+                0x010634f4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010634f4                NDK_SysSetConfigInfo
+ .text.NDK_BTSetType
+                0x01063504       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063504                NDK_BTSetType
+ .text.NDK_SecKeyDelete
+                0x01063514       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063514                NDK_SecKeyDelete
+ .text.NDK_TSKbdGetXY
+                0x01063524       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063524                NDK_TSKbdGetXY
+ .text.NDK_TSKbd_Ctrl
+                0x01063534       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063534                NDK_TSKbd_Ctrl
+ .text.NDK_SysReadyToSuspend
+                0x01063544       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063544                NDK_SysReadyToSuspend
+ .text.NDK_ScanDoScan
+                0x01063554       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063554                NDK_ScanDoScan
+ .text.NDK_ScanStart
+                0x01063564       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063564                NDK_ScanStart
+ .text.NDK_ScanExit
+                0x01063574       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063574                NDK_ScanExit
+ .text.NDK_SysGetRemainRAMInfo
+                0x01063584       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063584                NDK_SysGetRemainRAMInfo
+ .text.NDK_FsClearAppFile
+                0x01063594       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063594                NDK_FsClearAppFile
+ .text.NDK_FsDir
+                0x010635a4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010635a4                NDK_FsDir
+ .text.NDK_FsGetDiskSpace
+                0x010635b4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010635b4                NDK_FsGetDiskSpace
+ .text.NDK_AppDataSave
+                0x010635c4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010635c4                NDK_AppDataSave
+ .text.NDK_AppDataVerify
+                0x010635d4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010635d4                NDK_AppDataVerify
+ .text.NDK_AppUpdate
+                0x010635e4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010635e4                NDK_AppUpdate
+ .text.NDK_AlgRSAKeyPairGen
+                0x010635f4       0x14 ../lib/ME32/NDK_sysapi.o
+                0x010635f4                NDK_AlgRSAKeyPairGen
+ .text.NDK_AlgRSARecover
+                0x01063608       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063608                NDK_AlgRSARecover
+ .text.NDK_AlgRSAKeyPairVerify
+                0x0106361c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x0106361c                NDK_AlgRSAKeyPairVerify
+ .text.NDK_AlgSM2KeyPairGen
+                0x0106362c       0x10 ../lib/ME32/NDK_sysapi.o
+                0x0106362c                NDK_AlgSM2KeyPairGen
+ .text.NDK_AlgSM2Encrypt
+                0x0106363c       0x14 ../lib/ME32/NDK_sysapi.o
+                0x0106363c                NDK_AlgSM2Encrypt
+ .text.NDK_AlgSM2Decrypt
+                0x01063650       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063650                NDK_AlgSM2Decrypt
+ .text.NDK_AlgSM2Sign
+                0x01063664       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063664                NDK_AlgSM2Sign
+ .text.NDK_AlgSM2Verify
+                0x01063674       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063674                NDK_AlgSM2Verify
+ .text.NDK_AlgSM2GenE
+                0x01063684       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063684                NDK_AlgSM2GenE
+ .text.NDK_AlgSM3Start
+                0x01063698       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063698                NDK_AlgSM3Start
+ .text.NDK_AlgSM3Update
+                0x010636a8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010636a8                NDK_AlgSM3Update
+ .text.NDK_AlgSM3Final
+                0x010636b8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010636b8                NDK_AlgSM3Final
+ .text.NDK_AlgSM3Compute
+                0x010636c8       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010636c8                NDK_AlgSM3Compute
+ .text.NDK_AlgSM4Compute
+                0x010636d8       0x1c ../lib/ME32/NDK_sysapi.o
+                0x010636d8                NDK_AlgSM4Compute
+ .text.NDK_BTFlashUpgrade
+                0x010636f4       0x10 ../lib/ME32/NDK_sysapi.o
+                0x010636f4                NDK_BTFlashUpgrade
+ .text.auth_request_func
+                0x01063704       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063704                auth_request_func
+ .text.auth_clr_sec
+                0x01063714       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063714                auth_clr_sec
+ .text.auth_clr_apppk
+                0x01063724       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063724                auth_clr_apppk
+ .text.auth_get_SecApppk
+                0x01063734       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063734                auth_get_SecApppk
+ .text.auth_write_pn
+                0x01063744       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063744                auth_write_pn
+ .text.auth_write_sn
+                0x01063754       0x10 ../lib/ME32/NDK_sysapi.o
+                0x01063754                auth_write_sn
+ .text.auth_write_pnsn
+                0x01063764       0x14 ../lib/ME32/NDK_sysapi.o
+                0x01063764                auth_write_pnsn
+ .text.startup  0x01063778      0x244 ../o/ME32/main.o
+                0x01063778                main
+ .text.atoi     0x010639bc        0x8 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+                0x010639bc                atoi
+ .text.localtime
+                0x010639c4        0xc ../lib/ME32/libc_Cortex-M.a(localtime.o)
+                0x010639c4                localtime
+ .text.localtime_r
+                0x010639d0        0x4 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+                0x010639d0                localtime_r
+ .text.memcmp   0x010639d4       0x1e ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+                0x010639d4                memcmp
+ .text.memcpy   0x010639f2       0x12 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+                0x010639f2                memcpy
+ .text.memset   0x01063a04       0x10 ../lib/ME32/libc_Cortex-M.a(memset.o)
+                0x01063a04                memset
+ .text.mktime   0x01063a14      0x2c0 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+                0x01063a14                mktime
+ .text.ran1     0x01063cd4       0xb4 ../lib/ME32/libc_Cortex-M.a(rand.o)
+                0x01063cd4                ran1
+ .text.srand    0x01063d88        0xc ../lib/ME32/libc_Cortex-M.a(rand.o)
+                0x01063d88                srand
+ .text.rand     0x01063d94        0xc ../lib/ME32/libc_Cortex-M.a(rand.o)
+                0x01063d94                rand
+ .text.putch    0x01063da0        0xa ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ *fill*         0x01063daa        0x2 00
+ .text.vsprintf
+                0x01063dac       0x20 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+                0x01063dac                vsprintf
+ .text.sprintf  0x01063dcc       0x24 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+                0x01063dcc                sprintf
+ .text.strchr   0x01063df0       0x18 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+                0x01063df0                strchr
+ .text.strcpy   0x01063e08        0xe ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+                0x01063e08                strcpy
+ .text.strlen   0x01063e16       0x10 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+                0x01063e16                strlen
+ .text.strncpy  0x01063e26       0x2a ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+                0x01063e26                strncpy
+ .text.strstr   0x01063e50       0x2e ../lib/ME32/libc_Cortex-M.a(strstr.o)
+                0x01063e50                strstr
+ *fill*         0x01063e7e        0x2 00
+ .text.strtol   0x01063e80       0xfc ../lib/ME32/libc_Cortex-M.a(strtol.o)
+                0x01063e80                strtol
+ .text.div      0x01063f7c       0x26 ../lib/ME32/libc_Cortex-M.a(div.o)
+                0x01063f7c                div
+ *fill*         0x01063fa2        0x2 00
+ .text._doprntx
+                0x01063fa4      0x418 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+                0x01063fa4                _doprntx
+ .text._mktm_r  0x010643bc      0x10c ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+                0x010643bc                _mktm_r
+ .text.gmtime_r
+                0x010644c8        0x4 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+                0x010644c8                gmtime_r
+ .text.memchr   0x010644cc        0xc ../lib/ME32/libc_Cortex-M.a(memchr.o)
+                0x010644cc                memchr
+
+.vfp11_veneer   0x010644d8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x010644d8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x010644d8        0x0
+ .iplt          0x00000000        0x0 ../lib/ME32/NDK_sysapi.o
+
+.rodata         0x010644d8     0x8054
+ *(.rodata)
+ .rodata        0x010644d8       0x34 ../o/ME32/main.o
+                0x010644d8                skip_modID
+                0x010644d9                _g_sAppName
+                0x010644ea                _g_sVer
+                0x010644fa                _g_nSerio
+                0x010644fb                _g_sMachineType
+                0x01064500                _g_nFramLen
+                0x01064504                g_VerInfo
+ .rodata        0x0106450c      0xca0 ../o/ME32/gui.o
+                0x0106450c                CCB_BMP_144
+                0x0106498c                CCB_BMP
+                0x01064d8c                NL_BMP
+                0x0106518c                NL_Icon
+ .rodata        0x010651ac       0x24 ../o/ME32/lib.o
+ .rodata        0x010651d0       0x44 ../o/ME32/conf.o
+ .rodata        0x01065214       0x25 ../o/ME32/layer.o
+ .rodata        0x01065239        0xc ../o/ME32/tools.o
+ *fill*         0x01065245        0x3 00
+ .rodata        0x01065248      0x1f0 ../o/ME32/_systest.o(systest.o)
+ .rodata        0x01065438       0xfe ../o/ME32/_systest.o(systest5.o)
+ .rodata        0x01065536       0x13 ../o/ME32/_systest.o(systest6.o)
+ *fill*         0x01065549        0x3 00
+ .rodata        0x0106554c       0x6c ../o/ME32/_systest.o(systest7.o)
+ .rodata        0x010655b8       0xd4 ../o/ME32/_systest.o(systest8.o)
+ .rodata        0x0106568c        0xa ../o/ME32/_systest.o(systest10.o)
+ .rodata        0x01065696       0x18 ../o/ME32/_systest.o(systest12.o)
+ *fill*         0x010656ae        0x2 00
+ .rodata        0x010656b0       0x5c ../o/ME32/_systest.o(systest13.o)
+ .rodata        0x0106570c       0x34 ../o/ME32/_systest.o(systest24.o)
+ .rodata        0x01065740       0x40 ../o/ME32/_systest.o(systest25.o)
+ .rodata        0x01065780       0x51 ../o/ME32/_systest.o(systest32.o)
+ *fill*         0x010657d1        0x3 00
+ .rodata        0x010657d4      0x170 ../o/ME32/_systest.o(systest34.o)
+ .rodata        0x01065944       0x2a ../o/ME32/_systest.o(systest47.o)
+ .rodata        0x0106596e        0xa ../o/ME32/_systest.o(systest48.o)
+ .rodata        0x01065978       0x58 ../o/ME32/_systest.o(systest49.o)
+ .rodata        0x010659d0       0x94 ../o/ME32/_systest.o(systest50.o)
+ .rodata        0x01065a64       0x56 ../o/ME32/_systest.o(systest57.o)
+ .rodata        0x01065aba       0x19 ../o/ME32/_systest.o(systest58.o)
+ .rodata        0x01065ad3       0x12 ../o/ME32/_systest.o(systest63.o)
+ *fill*         0x01065ae5        0x3 00
+ .rodata        0x01065ae8       0x54 ../o/ME32/_systest.o(systest64.o)
+ *(.rodata*)
+ .rodata.str1.1
+                0x01065b3c      0x249 ../o/ME32/main.o
+ .rodata.str1.1
+                0x01065d85       0xb3 ../o/ME32/gui.o
+                                 0xb8 (size before relaxing)
+ .rodata.str1.1
+                0x01065e38      0x47f ../o/ME32/lib.o
+                                0x49d (size before relaxing)
+ .rodata.str1.1
+                0x010662b7      0x706 ../o/ME32/conf.o
+                                0x730 (size before relaxing)
+ .rodata.str1.1
+                0x010669bd      0x1b8 ../o/ME32/layer.o
+                                0x206 (size before relaxing)
+ .rodata.str1.1
+                0x01066b75      0x100 ../o/ME32/tools.o
+                                0x117 (size before relaxing)
+ .rodata.str1.1
+                0x01066c75      0xc5b ../o/ME32/_systest.o(systest.o)
+                                0xc94 (size before relaxing)
+ .rodata.str1.1
+                0x010678d0      0x5b1 ../o/ME32/_systest.o(systest5.o)
+                                0x5c4 (size before relaxing)
+ .rodata.str1.1
+                0x01067e81      0x1dc ../o/ME32/_systest.o(systest6.o)
+                                0x1ed (size before relaxing)
+ .rodata.str1.1
+                0x0106805d      0xcba ../o/ME32/_systest.o(systest7.o)
+                                0xcec (size before relaxing)
+ .rodata.str1.1
+                0x01068d17      0x716 ../o/ME32/_systest.o(systest8.o)
+                                0x741 (size before relaxing)
+ .rodata.str1.1
+                0x0106942d      0x19b ../o/ME32/_systest.o(systest10.o)
+                                0x1ec (size before relaxing)
+ .rodata.str1.1
+                0x010695c8       0xb4 ../o/ME32/_systest.o(systest12.o)
+                                 0xd7 (size before relaxing)
+ .rodata.str1.1
+                0x0106967c      0x569 ../o/ME32/_systest.o(systest13.o)
+                                0x6ac (size before relaxing)
+ .rodata.str1.1
+                0x01069be5      0x168 ../o/ME32/_systest.o(systest24.o)
+                                0x1f4 (size before relaxing)
+ .rodata.str1.1
+                0x01069d4d      0x23e ../o/ME32/_systest.o(systest25.o)
+                                0x317 (size before relaxing)
+ .rodata.str1.1
+                0x01069f8b      0x91f ../o/ME32/_systest.o(systest32.o)
+                                0x9cf (size before relaxing)
+ .rodata.str1.1
+                0x0106a8aa      0x63d ../o/ME32/_systest.o(systest34.o)
+                                0x689 (size before relaxing)
+ .rodata.str1.1
+                0x0106aee7      0x1aa ../o/ME32/_systest.o(systest47.o)
+                                0x1eb (size before relaxing)
+ .rodata.str1.1
+                0x0106b091       0xd0 ../o/ME32/_systest.o(systest48.o)
+                                0x130 (size before relaxing)
+ .rodata.str1.1
+                0x0106b161       0xda ../o/ME32/_systest.o(systest49.o)
+                                0x276 (size before relaxing)
+ .rodata.str1.1
+                0x0106b23b      0x122 ../o/ME32/_systest.o(systest50.o)
+                                0x1f0 (size before relaxing)
+ .rodata.str1.1
+                0x0106b35d      0xcf5 ../o/ME32/_systest.o(systest57.o)
+                                0xf17 (size before relaxing)
+ .rodata.str1.1
+                0x0106c052      0x13b ../o/ME32/_systest.o(systest58.o)
+                                0x2cc (size before relaxing)
+ .rodata.str1.1
+                0x0106c18d      0x12d ../o/ME32/_systest.o(systest63.o)
+                                0x1fb (size before relaxing)
+ .rodata.str1.1
+                0x0106c2ba       0x91 ../o/ME32/_systest.o(systest64.o)
+                                0x33d (size before relaxing)
+ .rodata._ctype
+                0x0106c34b      0x100 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+                0x0106c34b                _ctype
+ *fill*         0x0106c44b        0x1 00
+ .rodata._DAYS_BEFORE_MONTH
+                0x0106c44c       0x30 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .rodata.DAYS_IN_MONTH
+                0x0106c47c       0x30 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .rodata.str1.1
+                0x0106c4ac       0x18 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+                                 0x29 (size before relaxing)
+ .rodata.mon_lengths
+                0x0106c4c4       0x60 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .rodata.year_lengths
+                0x0106c524        0x8 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+                0x0106c52c                . = ALIGN (0x4)
+                0x0106c52c                _etext = .
+                0x0106c52c                _sidata = _etext
+
+.rel.dyn        0x0106c52c        0x0
+ .rel.iplt      0x00000000        0x0 ../lib/ME32/NDK_sysapi.o
+
+.data           0x20006000       0xdc load address 0x0106c52c
+                0x20006000                . = ALIGN (0x4)
+                0x20006000                _sdata = .
+ *(.data)
+ .data          0x20006000        0x0 ../lib/ME32/NDK_sysapi.o
+ .data          0x20006000       0xb8 ../o/ME32/main.o
+                0x20006000                tcrmenu
+                0x20006004                id0
+                0x20006018                func0
+                0x20006068                funcstr0
+ .data          0x200060b8        0x0 ../o/ME32/gui.o
+ .data          0x200060b8        0x8 ../o/ME32/lib.o
+                0x200060b8                g_wifistopflag
+                0x200060bc                auto_flag
+ .data          0x200060c0        0x0 ../o/ME32/conf.o
+ .data          0x200060c0        0x4 ../o/ME32/layer.o
+                0x200060c0                linkstatus
+                0x200060c1                netstatus
+                0x200060c3                g_socktype
+ .data          0x200060c4        0x0 ../o/ME32/tools.o
+ .data          0x200060c4       0x18 ../o/ME32/_systest.o(systest.o)
+                0x200060c4                g_RF_bak
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest5.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest6.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest7.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest8.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest10.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest12.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest13.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest24.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest25.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest32.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest34.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest47.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest48.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest49.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest50.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest57.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest58.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest63.o)
+ .data          0x200060dc        0x0 ../o/ME32/_systest.o(systest64.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubdf3.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivdf3.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubsf3.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivsf3.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_cmpsf2.o)
+ .data          0x200060dc        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixsfsi.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(memset.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strstr.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(strtol.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(div.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .data          0x200060dc        0x0 ../lib/ME32/libc_Cortex-M.a(memchr.o)
+ *(.data.*)
+                0x200060dc                . = ALIGN (0x4)
+                0x200060dc                _edata = .
+
+.igot.plt       0x200060dc        0x0 load address 0x0106c608
+ .igot.plt      0x00000000        0x0 ../lib/ME32/NDK_sysapi.o
+
+.bss            0x200060dc     0x2398 load address 0x0106c608
+                0x200060dc                . = ALIGN (0x4)
+                0x200060dc                _sbss = .
+ *(.bss)
+ .bss           0x200060dc        0x0 ../lib/ME32/NDK_sysapi.o
+ .bss           0x200060dc        0x0 ../o/ME32/main.o
+ .bss           0x200060dc       0x10 ../o/ME32/gui.o
+ .bss           0x200060ec       0x4c ../o/ME32/lib.o
+                0x200060ec                g_UCID
+                0x200060f0                packetnum
+                0x200060f4                g_SequencePressFlag
+                0x200060f8                NowSystestName
+ .bss           0x20006138       0x14 ../o/ME32/conf.o
+                0x20006138                g_conf_flag
+                0x2000613c                g_at_enable
+                0x20006140                g_btdiscoverflag
+                0x20006144                g_pair_mode
+                0x20006148                g_ScanType
+ .bss           0x2000614c      0x324 ../o/ME32/layer.o
+                0x2000614c                linksetting
+                0x200063c8                netsetting
+                0x2000646c                TCPRESETFLAG
+ .bss           0x20006470        0x0 ../o/ME32/tools.o
+ .bss           0x20006470     0x1f4c ../o/ME32/_systest.o(systest.o)
+                0x20006470                g_CycleTime
+                0x20006474                g_PackLen
+                0x20006478                g_keeptime
+                0x2000647c                links
+                0x20007d54                nets
+ .bss           0x200083bc        0x0 ../o/ME32/_systest.o(systest5.o)
+ .bss           0x200083bc        0x0 ../o/ME32/_systest.o(systest6.o)
+ .bss           0x200083bc        0x4 ../o/ME32/_systest.o(systest7.o)
+                0x200083bc                f_sdk3
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest8.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest10.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest12.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest13.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest24.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest25.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest32.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest34.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest47.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest48.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest49.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest50.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest57.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest58.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest63.o)
+ .bss           0x200083c0        0x0 ../o/ME32/_systest.o(systest64.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x200083c0        0x0 f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(memset.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strstr.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(strtol.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(div.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .bss           0x200083c0        0x0 ../lib/ME32/libc_Cortex-M.a(memchr.o)
+ *(.bss.*)
+ .bss.sysapi    0x200083c0        0x4 ../lib/ME32/NDK_sysapi.o
+                0x200083c0                sysapi
+ .bss.tmp.3662  0x200083c4       0x24 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .bss.g_seed    0x200083e8        0x4 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .bss.iv.3676   0x200083ec       0x80 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .bss.iy.3675   0x2000846c        0x4 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ *(COMMON)
+ COMMON         0x20008470        0x1 ../lib/ME32/NDK_sysapi.o
+                0x20008470                __gnu_lto_v1
+                0x20008474                . = ALIGN (0x4)
+ *fill*         0x20008471        0x3 00
+                0x20008474                _ebss = .
+                0x20008474                _end = .
+START GROUP
+LOAD f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a
+LOAD ../lib/ME32/libc_Cortex-M.a
+END GROUP
+OUTPUT(../rom/ME32/V2/main.elf elf32-littlearm)
+
+.comment        0x00000000       0xef
+ .comment       0x00000000       0x7f ../lib/ME32/NDK_sysapi.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x70 ../o/ME32/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ../o/ME32/gui.o
+ .comment       0x00000000       0x71 ../o/ME32/lib.o
+ .comment       0x00000000       0x71 ../o/ME32/conf.o
+ .comment       0x00000000       0x71 ../o/ME32/layer.o
+ .comment       0x00000000       0x71 ../o/ME32/tools.o
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest5.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest6.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest7.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest8.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest10.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest12.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest13.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest24.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest25.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest32.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest34.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest47.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest48.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest49.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest50.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest57.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest58.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest63.o)
+ .comment       0x00000000       0x71 ../o/ME32/_systest.o(systest64.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(memset.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strstr.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(strtol.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(div.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .comment       0x00000000       0x71 ../lib/ME32/libc_Cortex-M.a(memchr.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ../lib/ME32/NDK_sysapi.o
+ .ARM.attributes
+                0x00000033       0x33 ../o/ME32/main.o
+ .ARM.attributes
+                0x00000066       0x33 ../o/ME32/gui.o
+ .ARM.attributes
+                0x00000099       0x33 ../o/ME32/lib.o
+ .ARM.attributes
+                0x000000cc       0x33 ../o/ME32/conf.o
+ .ARM.attributes
+                0x000000ff       0x33 ../o/ME32/layer.o
+ .ARM.attributes
+                0x00000132       0x33 ../o/ME32/tools.o
+ .ARM.attributes
+                0x00000165       0x33 ../o/ME32/_systest.o(systest.o)
+ .ARM.attributes
+                0x00000198       0x33 ../o/ME32/_systest.o(systest5.o)
+ .ARM.attributes
+                0x000001cb       0x33 ../o/ME32/_systest.o(systest6.o)
+ .ARM.attributes
+                0x000001fe       0x33 ../o/ME32/_systest.o(systest7.o)
+ .ARM.attributes
+                0x00000231       0x33 ../o/ME32/_systest.o(systest8.o)
+ .ARM.attributes
+                0x00000264       0x33 ../o/ME32/_systest.o(systest10.o)
+ .ARM.attributes
+                0x00000297       0x33 ../o/ME32/_systest.o(systest12.o)
+ .ARM.attributes
+                0x000002ca       0x33 ../o/ME32/_systest.o(systest13.o)
+ .ARM.attributes
+                0x000002fd       0x33 ../o/ME32/_systest.o(systest24.o)
+ .ARM.attributes
+                0x00000330       0x33 ../o/ME32/_systest.o(systest25.o)
+ .ARM.attributes
+                0x00000363       0x33 ../o/ME32/_systest.o(systest32.o)
+ .ARM.attributes
+                0x00000396       0x33 ../o/ME32/_systest.o(systest34.o)
+ .ARM.attributes
+                0x000003c9       0x33 ../o/ME32/_systest.o(systest47.o)
+ .ARM.attributes
+                0x000003fc       0x33 ../o/ME32/_systest.o(systest48.o)
+ .ARM.attributes
+                0x0000042f       0x33 ../o/ME32/_systest.o(systest49.o)
+ .ARM.attributes
+                0x00000462       0x33 ../o/ME32/_systest.o(systest50.o)
+ .ARM.attributes
+                0x00000495       0x33 ../o/ME32/_systest.o(systest57.o)
+ .ARM.attributes
+                0x000004c8       0x33 ../o/ME32/_systest.o(systest58.o)
+ .ARM.attributes
+                0x000004fb       0x33 ../o/ME32/_systest.o(systest63.o)
+ .ARM.attributes
+                0x0000052e       0x33 ../o/ME32/_systest.o(systest64.o)
+ .ARM.attributes
+                0x00000561       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000057e       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000059b       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000005b8       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000005d5       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000005f2       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000060f       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000062c       0x1d f:/wangkai/gnu tools arm embedded/4.7 2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7-m/\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x00000649       0x33 ../lib/ME32/libc_Cortex-M.a(atoi.o)
+ .ARM.attributes
+                0x0000067c       0x33 ../lib/ME32/libc_Cortex-M.a(ctype.o)
+ .ARM.attributes
+                0x000006af       0x33 ../lib/ME32/libc_Cortex-M.a(localtime.o)
+ .ARM.attributes
+                0x000006e2       0x33 ../lib/ME32/libc_Cortex-M.a(localtime_r.o)
+ .ARM.attributes
+                0x00000715       0x33 ../lib/ME32/libc_Cortex-M.a(memcmp.o)
+ .ARM.attributes
+                0x00000748       0x33 ../lib/ME32/libc_Cortex-M.a(memcpy.o)
+ .ARM.attributes
+                0x0000077b       0x33 ../lib/ME32/libc_Cortex-M.a(memset.o)
+ .ARM.attributes
+                0x000007ae       0x33 ../lib/ME32/libc_Cortex-M.a(mktime.o)
+ .ARM.attributes
+                0x000007e1       0x33 ../lib/ME32/libc_Cortex-M.a(rand.o)
+ .ARM.attributes
+                0x00000814       0x33 ../lib/ME32/libc_Cortex-M.a(sprintf.o)
+ .ARM.attributes
+                0x00000847       0x33 ../lib/ME32/libc_Cortex-M.a(strchr.o)
+ .ARM.attributes
+                0x0000087a       0x33 ../lib/ME32/libc_Cortex-M.a(strcpy.o)
+ .ARM.attributes
+                0x000008ad       0x33 ../lib/ME32/libc_Cortex-M.a(strlen.o)
+ .ARM.attributes
+                0x000008e0       0x33 ../lib/ME32/libc_Cortex-M.a(strncpy.o)
+ .ARM.attributes
+                0x00000913       0x33 ../lib/ME32/libc_Cortex-M.a(strstr.o)
+ .ARM.attributes
+                0x00000946       0x33 ../lib/ME32/libc_Cortex-M.a(strtol.o)
+ .ARM.attributes
+                0x00000979       0x33 ../lib/ME32/libc_Cortex-M.a(div.o)
+ .ARM.attributes
+                0x000009ac       0x33 ../lib/ME32/libc_Cortex-M.a(doprntx.o)
+ .ARM.attributes
+                0x000009df       0x33 ../lib/ME32/libc_Cortex-M.a(gmtime_r.o)
+ .ARM.attributes
+                0x00000a12       0x33 ../lib/ME32/libc_Cortex-M.a(memchr.o)

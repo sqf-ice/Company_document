@@ -1,0 +1,443 @@
+********************************************************
+*
+*                                     测试预报告
+*                               Mon Apr 25 13:53:18 2016
+*
+********************************************************
+***************************************************************************
+|fs -      fsys -用例号|             			测试点 		|
+                1			测试NDK_FsOpen接口
+                2			测试NDK_FsClose接口
+                3			测试NDK_FsSeek接口
+                4			测试NDK_FsWrite接口
+                5			测试NDK_FsDel接口
+                6			测试NDK_FsRead接口
+                7			测试NDK_FsTell接口
+                8			测试NDK_FsGetDiskSpace接口
+                9			测试NDK_FsRename接口
+               10			测试NDK_FsTruncate接口文件截短功能
+               11			测试NDK_FsFormat接口
+               12			测试NDK_FsDir接口
+               13			测试NDK_FsExist接口
+               14			测试NDK_FsFileSize接口
+               15			测试NDK_Directory函数族
+***************************************************************************
+|app -       app -用例号|             			测试点 		|
+                1			测试NDK_AppLoad,NDK_AppGetReboot接口
+                2			测试 NDK_AppGetInfo接口
+                3			测试 NDK_AppRun接口能否运行相应的应用
+                4			测试 NDK_AppDel接口
+                5			测试 NDK_AppEXECV接口
+                6			测试 NDK_AppDoEvent接口
+                7			测试 NDK_AppSetEventCallBack接口
+                8			测试 NDK_AppGetPathById接口,获取应用管理相关目录
+                9			测试 NDK_AppGetPathByAppName接口,获取应用程序安装目录
+***************************************************************************
+|icc -       icc -用例号|             			测试点 		|
+                1			测试NDK_IccGetVersion是否可以正确的获得版本信息
+                2			测试 NDK_IccSetType, NDK_IccGetType接口
+                3			测试 NDK_Iccrw接口
+                4			测试 NDK_IccPowerUp,NDK_IccPowerDown是否上下电成功
+                5			测试 NDK_IccDetect获取卡片状态
+***************************************************************************
+|kb -        kb -用例号|             			测试点 		|
+                1			测试NDK_KbFlush能否清除键盘缓冲区。NDK_KbGetCode能够在超时时间内读取键盘按键值,NDK_KbHit能否获取缓冲区中的首个键盘键值，立即返回
+                2			测试NDK_KbSwitch,NDK_KbGetSwitch
+                3			测试NDK_KbGetInput
+                4			测试NDK_KbHZInput能否进行函数输入
+                5			测试NDK_KbGetPad获取像素坐标点的触屏状态
+***************************************************************************
+|mag -       mag -用例号|             			测试点 		|
+                1			测试NDK_MagOpen接口
+                2			测试NDK_MagClose接口
+                3			测试NDK_MagSwiped接口
+                4			测试NDK_MagReadNormal接口
+                5			测试NDK_MagReset接口
+                6			测试NDK_MagReadRaw接口
+***************************************************************************
+|port -      port -用例号|             			测试点 		|
+                1			测试NDK_PortOpen和NDK_PortClose接口功能
+                2			测试NDK_PortRead接口功能
+                3			测试NDK_PortWrite接口功能
+                4			测试NDK_PortClrBuf接口功能
+                5			测试NDK_PortReadLen接口功能
+                6			测试USB串口功能
+                7			测试USB串口功能
+***************************************************************************
+|ppp -       ppp -用例号|             			测试点 		|
+                1			测试NDK_PppSetCfg,NDK_PppDial,NDK_PppHangup接口功能
+                2			测试NDK_PppAddrChange接口功能
+                3			测试NDK_PppGetAddr接口功能
+                4			测试NDK_PppCheck接口功能
+                5			测试NDK_NetGetAddr接口功能
+                6			测试NDK_NetDnsResolv接口功能
+***************************************************************************
+|prnt -      prnt -用例号|             			测试点 		|
+                1			测试NDK_PrnGetStatus接口功能
+                2			测试NDK_PrnImage接口功能
+                3			测试NDK_PrnStr接口功能
+                4			测试NDK_PrnInit接口功能
+                5			测试NDK_PrnStart接口功能
+                6			测试NDK_PrnGetType接口功能
+                7			测试NDK_PrnGetVersion接口功能
+                8			测试NDK_PrnSetFont接口功能
+                9			测试NDK_PrnSetMode接口功能
+               10			测试NDK_PrnSetGreyScale接口功能
+               11			测试NDK_PrnSetForm接口功能
+               12			测试NDK_PrnFrnFeedByPixel接口功能
+               13			测试NDK_PrnSetUnderLine接口功能
+               14			测试NDK_PrnGetPrintedLen接口功能
+               15			测试NDK_PrnGetDotLine接口功能
+               16			测试NDK_PrnPicture接口功能
+               17			测试NDK_PrnIntegrate接口功能
+               18			测试NDK_PrnSetAlignment 接口功能
+               19			测试NDK_PrnFontRegister,NDK_PrnSetUsrFont接口功能
+               20			测试NDK_PrnSetPageLen 接口功能
+               21			测试NDK_PrnSetAlignment 接口功能
+               22			测试NDK_PrnFeedPaper接口功能
+               23			测试NDK_PrnGetDotData接口根据输入字符串获取出系统指定打印字体相应的点阵缓冲
+***************************************************************************
+|rfc -       rfc -用例号|             			测试点 		|
+                1			测试NDK_RfidVersion接口
+                2			测试NDK_RfidPiccType接口
+                3			测试NDK_RfidPiccActivate,NDK_RfidPiccDeactivate,NDK_RfidPiccState接口
+                4			测试NDK_RfidPiccApdu接口
+                5			测试NDK_RfidPiccState,NDK_RfidPiccDetect接口
+                6			测试NDK_SetIgnoreProtocol,NDK_GetIgnoreProtocol接口
+                7			测试NDK_PiccQuickRequest接口
+                8			测试NDK_GetRfidType接口
+                9			测试能否正确操作Mifare-1卡(APDU读写)
+               10			测试 NDK_M1ExternalAuthen接口
+               11			测试NDK_RfidSuspend,NDK_RfidResume接口
+               12			测试NDK_RfidTypeARats接口能否在M1卡寻卡防冲突和选卡的基础上激活A卡进行读写操作
+               13			测试NDK_RfidFelicaPoll对felica卡寻卡 
+               14			测试NDK_RfidFelicaApdu 对Felica卡的数据读写
+***************************************************************************
+|sckt -      sckt -用例号|             			测试点 		|
+                1			测试NDK_TcpOpen接口功能
+                2			测试NDK_TcpClose和NDK_TcpWait接口功能
+                3			测试NDK_TcpBind接口功能
+                4			测试NDK_TcpConnect接口功能
+                5			测试NDK_TcpWrite接口功能
+                6			测试NDK_TcpRead接口功能
+                8			测试NDK_TcpReset接口功能
+***************************************************************************
+|asyn -      asyn -用例号|             			测试点 		|
+                1			测试NDK_MdmAsynInit 能否对有线MODEM进行异步方式的初始化
+                2			测试NDK_MdmDial 能否进行建立异步连接的发起动作，即asyn拨号
+                3			测试NDK_MdmCheck 能否正确检测检测modem状态
+                4			测试NDK_MdmWrite 能否进行异步通讯的发送数据操作，即asyn写操作
+                5			测试NDK_MdmRead 能否进行异步通讯的接收数据操作，即asyn读操作
+                6			测试NDK_MdmHangup 能否断开MODEM的异步通讯链路，即asyn挂机操作
+                7			测试NDK_MdmClrbuf 能否清空异步通讯缓冲区
+                8			测试NDK_MdmGetreadlen 能否进行异步通讯时读取读缓冲区中的数据长度
+                9			测试NDK_MdmReset能否对有线MODEM进行有效复位
+		10			测试NDK_MdmAdapt能否对有线MODEM进行自适应	
+***************************************************************************
+|sdlc -      sdlc -用例号|             			测试点 		|
+                1			测试NDK_MdmSdlcInit能否对有线MODEM进行同步方式的初始化
+                2			测试NDK_MdmDial 能否进行建立同步连接的发起动作，即SDLC拨号
+                3			测试NDK_MdmCheck 能否正确检测检测modem状态
+                4			测试NDK_MdmWrite 能否进行同步通讯的发送数据操作，即SDLC写操作
+                5			测试NDK_MdmRead 能否进行同步通讯的接收数据操作，即SDLC读操作
+                6			测试NDK_MdmHangup 能否断开MODEM的同步通讯链路，即SDLC挂机操作
+                7			测试NDK_MdmClrbuf 能否清空同步通讯缓冲区
+                8			测试NDK_MdmGetreadlen 能否获取modem长度
+                9			测试NDK_MdmExCommand 能否正确执行AT命令
+               10			测试NDK_MdmReset能否对有线MODEM进行有效复位
+	       11			测试NDK_MdmAdapt能否对有线MODEM进行自适应
+***************************************************************************
+|eth -       eth -用例号|             			测试点 		|
+                5			测试NDK_NetDHCP接口功能
+                1			测试NDK_EthSetAddress和NDK_EthGetNetAddr接口功能
+                2			测试NDK_EthGetMacAddr接口功能
+                3			测试NDK_GetDnsIp接口功能
+                4			测试NDK_NetPing接口功能
+                6			测试NDK_NetGetAddr接口功能
+                7			测试NDK_NetAddRouterTable接口功能
+                8			测试NDK_EthDisConnect函数关闭以太网功能
+                9			测试NDK_NetDnsResolv接口功能
+***************************************************************************
+|scr -       scr -用例号|             			测试点 		|
+                1			测试NDK_ScrGotoxy 是否可以正确移动到第（y+1）行第（x+1）列处，测试NDK_ScrGetxy是否可以正确取光标位置的列号和行号
+                2			测试NDK_ScrSetAttr是否可以正确取原来的显示属性，并设置新的显示属性
+                3			测试NDK_ScrPush是否可以保存当前屏幕显示状态,测试NDK_ScrPop是能能恢复利用中后一个pushscreen保存的显示状态
+                4			测试NDK_ScrSetbgPic是否设置屏幕背景图片，测试NDK_ScrClrbgPic是否可以取消背景图片
+                5			测试NDK_ScrClrs是否可以清除屏幕,并把光标移到(0,0),并将显示属性恢复正常
+                6			测试NDK_ScrClrLine是否可以清除若干行,把光标移到(0,unStartY)处
+                7			测试NDK_ScrSetViewPort能否设置屏幕的显示区域, 测试NDK_ScrGetViewPort能否获取屏幕的显示区域
+                8			测试NDK_ScrDrawBitmap能否在屏幕上显示图片
+                9			测试NDK_ScrLine是否能在指定的两点间画线段
+               10			测试NDK_ScrRectangle是否在指定区域内画矩型
+               11			测试NDK_ScrPutPixel是否能在LCD屏幕上设置一个点，测试NDK_ScrGetPixel能否取当前LCD屏幕上的一点(x,y)的颜色
+               12			测试NDK_ScrAutoUpdate能否设置屏幕刷新模式，测试NDK_ScrFullRefresh能否设置全屏幕刷新模式,测试NDK_ScrRefresh能否刷新屏幕
+               13			测试NDK_ScrGetLcdSize能否获取液晶屏尺寸,NDK_ScrGetColorDepth能否获取液晶屏色深
+               14			测试NDK_ScrBackLight能否开关LCD背光操作
+               15			测试NDK_ScrSetContrast能否设置屏幕对比度
+               16			测试 NDK_ScrSetFontType,NDK_ScrGetFontType能否设置和获取使用的显示字体,NDK_ScrGetFontSize能否获取当前系统使用的汉字显示字体宽和高
+               17			测试NDK_ScrSetSpace能否设置行间距和字间距
+               18			测试测试NDK_ScrSetFontColor能否设置字体颜色
+               19			测试NDK_ScrDispString是否在指定区域内显示字符串
+               20			测试NDK_ScrGetVer能否获取显示模块版本
+               21			测试NDK_ScrDispPic能否在屏幕上显示图片
+               22			测试 NDK_ScrFontAdd 能否正确添加自定义字体
+               23			测试 NDK_ScrStatusbar能否正确控制屏幕底部显示状态栏
+               24			测试 NDK_ScrLoadBDF和NDK_ScrDispBDFText接口功能
+               25			测试 NDK_ScrPrintf接口功能
+	       26			测试NDK_ScrTSCalibrate函数触屏校验功能
+               27			测试NDK_ScrImgDecode能否将图片解码数据保存到指定缓存,NDK_ScrImgDestroy函数能否释放指定的图片缓存
+               28			测试NDK_ScrDispImg能否在屏幕上显示图片
+               29			测试NDK_ScrGetFontBuf能否根据输入字符串取出系统当前字体相应的点阵缓冲
+***************************************************************************
+|ssl -       ssl -用例号|             			测试点 		|
+                1			测试NDK_OpenSSLSocket接口功能
+                2			测试NDK_SetSSLBlockingMode接口功能
+                3			测试NDK_Loadxxx函数族
+                4			测试NDK_SSLConnect接口功能
+                5			测试NDK_SSLDisconnect接口功能
+                6			测试NDK_SSLBind接口功能
+                7			测试NDK_CloseSSLSocket接口功能
+                8			测试NDK_SSLSend接口功能
+                9			测试NDK_SSLReceive,NDK_SSLDataAvailable接口功能
+***************************************************************************
+|alg -       alg -用例号|             			测试点 		|
+                1			测试NDK_AlgTDes接口功能
+                2			测试NDK_AlgSHA1接口功能
+                3			测试NDK_AlgSHA512接口功能
+                4			测试NDK_AlgSHA256接口功能
+                5			测试NDK_AlgRSAKeyPairGen接口功能
+                6			测试NDK_AlgRSARecover接口功能
+                7			测试NDK_AlgRSAKeyPairVerify接口功能
+                8			测试NDK_AlgSM2KeyPairGen生成SM2非对称公私钥对的功能（国密算法）
+                9			测试NDK_AlgSM2Encrypt函数使用SM2非对称公私钥对中的公钥进行加密的功能（国密算法）
+               10			测试NDK_AlgSM2Decrypt函数使用SM2非对称公私钥对中的私钥进行解密的功能（国密算法）
+               11			测试NDK_AlgSM2GenE函数生成SM2非对称公私钥对对应的数字摘要（32字节）的功能（注意：在该算法中，运算还需要用到ID、对应SM2非对称公私钥对的公钥等数据）（国密算法）
+               12			测试NDK_AlgSM2Sign函数使用SM2非对称公私钥对中的私钥对摘要（32字节）计算数字签名（64字节）的功能（国密算法）
+               13			测试NDK_AlgSM2Verify函数使用SM2非对称公私钥对中的公钥对数字签名（64字节）计算摘要（32字节）的功能（国密算法）
+               14			测试NDK_AlgSM3Start和NDK_AlgSM3Update函数根据SM3算法以分组方式（除最后一个分组以外，每个分组长度须为64字节整数倍）生成数字摘要（32字节）的功能（国密算法）
+               15			测试NDK_AlgSM3Final函数根据SM3算法以分组方式注入最后一组数据后生成数字摘要（32字节）的功能（国密算法）
+               16			测试NDK_AlgSM3Compute函数根据SM3算法以一次性传入数据方式生成数字摘要（32字节）的功能（国密算法）
+               17			测试NDK_AlgSM4Compute函数根据SM4算法以ECB、CBC等模式进行对称密钥加解密运算的功能
+***************************************************************************
+|sys -       sys -用例号|             			测试点 		|
+                1			测试NDK_Getlibver接口
+                2			测试NDK_SysInit接口
+                3			测试NDK_SysExit接口
+                4			测试NDK_SysReboot接口
+                5			测试NDK_SysShutDown接口
+                6			测试NDK_SysBeep接口
+                7			测试NDK_SysSetBeepVol,NDK_SysGetBeepVol接口
+                8			测试NDK_SysTimeBeep接口
+                9			测试NDK_SysSetSuspend接口
+               10			测试NDK_SysGoSuspend接口
+               11			测试NDK_SysGetPowerVol接口
+               12			测试NDK_SysDelay,NDK_SysMsDelay,NDK_SysStartWatch,NDK_SysStopWatch接口
+               13			本例测试NDK_SysGetPosTime,NDK_SysSetPosTime接口
+               14			测试NDK_SysReadFont接口
+               15			本例测试NDK_LedStatus接口
+               16			本例测试NDK_SysGetPosInf读取pos硬件信息接口功能是否正确
+               17			测试NDK_SysGetConfigInfo接口
+               18			测试NDK_SysGetFirmwareInfo接口
+	       19			测试NDK_SysTime接口
+               20			测试NDK_InitStatisticsData,NDK_GetStatisticsData接口
+               21			测试NDK_SysSetSuspendDuration接口
+               22			测试NDK_SysGetPowerInfo是否正确获取电源信息
+               23			本例测试NDK_LedSetFlickParam 接口
+              100			“弹出和屏幕显示交叉”测试用例
+***************************************************************************
+|timer -     timer -用例号|             			测试点 		|
+                1			测试NDK_Wait接口功能
+                2			测试NDK_WaitAndFlag和NDK_CancelTimer接口功能
+                3			测试NDK_RegisterTimerRoutine接口功能
+***************************************************************************
+|util -      util -用例号|             			测试点 		|
+                1			测试NDK_AddDigitStr接口功能
+                2			测试NDK_IncNum接口功能
+                3			测试NDK_FmtAmtStr  接口功能
+                4			测试 NDK_AscToHex 和NDK_HexToAsc     接口功能
+                5			测试 NDK_IntToC4  和NDK_C4ToInt    接口功能
+                6			测试 NDK_IntToC2  和NDK_C2ToInt    接口功能
+                7			测试 NDK_ByteToBcd   和 NDK_BcdToByte    接口功能
+                8			测试 NDK_IntToBcd   和NDK_BcdToInt     接口功能
+                9			测试 NDK_CalcLRC    接口功能
+               10			测试 NDK_LeftTrim  和NDK_RightTrim 和NDK_AllTrim   接口功能
+               11			测试NDK_AddSymbolToStr 接口功能
+               12			测试NDK_SubStr  接口功能
+               13			测试NDK_IsDigitChar 和NDK_IsDigitStr   接口功能
+               14			测试NDK_IsLeapYear接口功能
+               15			测试NDK_MonthDays   接口功能
+               16			测试NDK_IsValidDate   接口功能
+***************************************************************************
+|sec -       sec -用例号|             			测试点 		|
+                1			测试NDK_SecGetVer接口功能
+                2			测试NDK_SecGetRandom接口功能
+                3			测试NDK_SecLoadKey接口功能
+                4			测试NDK_SecGetKcv接口功能
+                5			测试NDK_SecGetMac接口功能
+                6			测试NDK_SecGetPin,NDK_SecGetPinResult接口功能
+                7			测试NDK_SecCalcDes接口功能
+                8			测试NDK_SecSetCfg,NDK_SecGetCfg接口功能
+                9			测试NDK_SecKeyErase接口功能能删除所有密钥，NDK_SecKeyDelete函数能删除指定的密钥类型的密钥
+               10			测试NDK_SecSetIntervaltime 接口功能
+               11			测试 NDK_SecSetFunctionKey 接口功能
+               14			测试NDK_SecSetKeyOwner设置新的应用密钥表及设置共享密钥表接口功能
+               15			测试NDK_SecLoadRsaKey接口功能
+               16			测试NDK_SecRecover接口功能
+               17			测试NDK_SecLoadTIK接口功能
+               18			测试NDK_SecGetDukptKsn,NDK_SecIncreaseDukptKsn接口功能
+               19			测试NDK_SecGetPinDukpt,NDK_SecGetPinResultDukpt接口功能
+               20			测试NDK_SecGetMacDUKPT接口功能
+               21			测试NDK_SecCalcDesDUKPT接口功能
+               22			测试应用A给应用B安装密钥
+               23			安全配置
+               24			安全配置
+               26			测试NDK_SecLoadKey国密部分密钥装载接口功能
+               27			测试NDK_SecCalcDes计算国密算法sm4加解密接口功能
+               28			测试NDK_SecGetMac国密MAC计算接口功能
+               29			测试NDK_SecGetPin,NDK_SecGetPinResult函数国密PIN计算接口功能
+               30			测试NDK_SecGetCfg,NDK_SecSetCfg安全配置对国密密钥体系的管理功能
+***************************************************************************
+|wlm -       wlm -用例号|             			测试点 		|
+                1			测试NDK_WlInit接口功能
+                2			测试NDK_WlModemGetSQ接口功能
+                3			测试NDK_WlSendATCmd接口功能
+                4			测试NDK_WlSelSIM接口功能
+                5			测试NDK_WlCloseRF接口功能
+                6			测试NDK_WlModemReset能否复位无线模块，NDK_WlModemClose能否关闭无线模块
+                7			测试NDK_WlGetInfo接口获取ccid,imei,imsi的功能
+                8			测试NDK_Wlm_GetStationInfo接口功能
+***************************************************************************
+|wlan -      wlan -用例号|             			测试点 		|
+                1			测试NDK_WiFiGetNetList,NDK_WiFiInit接口功能
+                2			测试NDK_WiFiSignalCover接口功能
+                3			测试NDK_WiFiGetSec接口功能
+                4			测试NDK_WiFiConnect,NDK_WiFiIsConnected接口功能
+                5			测试NDK_WiFiConnectState接口功能
+                6			测试NDK_WiFiGetNetInfo接口功能
+                7			测试NDK_WiFiGetMac接口功能
+                8			测试NDK_WiFiShutdown接口功能
+                9			测试NDK_NetGetAddr接口功能
+               10			测试NDK_NetDnsResolv接口功能
+               12			测试NDK_WiFiDisconnect接口功能
+***************************************************************************
+|sdusb -     sdusb -用例号|             			测试点 		|
+                1			测试NDK_DiskOpen能否打开U盘/SD卡,NDK_DiskClose能否关闭U盘/SD卡
+                 2			测试NDK_DiskGetState是否可以正确显示状态
+                 3			测试NDK_DiskGetRootDirName能否获取U盘根目录的名称
+                 4			测试NDK_DiskGetInfo能否正确获取信息
+ ***************************************************************************
+|bt -        bt -用例号|             			测试点 		|
+                1			测试NDK_BTReset是否可以正常复位
+                2			测试NDK_BTEnterCommand,NDK_BTExitCommand是否可以正常进出命令模式
+                3			测试NDK_BTSetLocalName,NDK_BTGetLocalName是否可以正常设置获取蓝牙的本地名称
+                4			测试NDK_BTGetLocalMAC是否可以正常获取蓝牙的MAC地址
+                5			测试NDK_BTSetPIN,NDK_BTGetPIN是否可以正常设置获取PIN
+                6			测试NDK_BTStatus是否能够获取到正确的蓝牙连接状态
+                7			测试NDK_PortOpen能否初始化打开蓝牙,NDK_PortClose能否正常关闭蓝牙
+                8			测试NDK_PortRead能否读取蓝牙数据,NDK_PortWrite能否正常发送蓝牙数据
+                9			测试NDK_PortClrBuf能否清蓝牙缓冲区
+               10			测试NDK_PortReadLen能否正确读蓝牙缓冲区字节
+               11			测试NDK_BTDisconnect是否可以正常断了蓝牙连接
+               12			测试NDK_BTSetLocalMAC是否可以正常设置蓝牙的MAC地址
+               13			测试NDK_BTSetPairingMode是否能够正确的设置蓝牙连接模式
+               14			测试NDK_BTGetPairingStatus,NDK_BTConfirmPairing蓝牙是否能够正确获取蓝牙配对状态并确认配对
+               20			测试蓝牙主模式下NDK_BTMasterScan,NDK_BTMasterStopScan 是否可以正常扫描得到扫描结果，并且根据需要停止扫描
+               21			测试蓝牙主模式下NDK_BTMasterGetScanResults 是否可以扫描到想要的扫描结果
+               22			测试蓝牙主模式下NDK_BTMasterBond能否进行主动配对
+               23			测试蓝牙主模式下NDK_BTMasterGetBondStatus能否获取到正确的蓝牙配对状态
+               24			测试蓝牙主模式下NDK_BTMasterBondConfirm能否在PINCODE和SSP模式下进行配对确认
+               25			测试蓝牙主模式下NDK_BTMasterConnect和NDK_BTMasterGetConStatus能否主动连接和获取连接状态
+               26			测试蓝牙主模式下NDK_BTMasterWrite能否给指定蓝牙设备送指定长度的数据
+               27			测试蓝牙主模式下NDK_BTMasterRead能否在设定的时间内从指定的蓝牙设备中读取指定长度的数据
+               28			测试蓝牙主模式下NDK_BTMasterReadLen能否正确读从设备蓝牙缓冲区字节
+               29			测试蓝牙主模式下NDK_BTMasterClrBuf  能否清除指定蓝牙连接的接收缓冲区
+               30			测试蓝牙主模式下NDK_BTMasterDisconnect  断开指定连接
+***************************************************************************
+|scan -      scan -用例号|             			测试点 		|
+                1			测试NDK_ScanInit是否可以正常初始化
+                2			测试NDK_ScanSet是否可以正常设置
+                3			测试NDK_ScanDoScan是否可以正常扫描
+***************************************************************************
+|dns -       dns -用例号|             			测试点 		|
+                1			测试NDK_NetDnsResolv接口功能
+                2			测试NDK_NetSetDns接口设置DNS功能
+***************************************************************************
+|systest -      系统 -用例号|             			测试点 		|
+                1			打印综合测试
+                2			MODEM综合测试
+                3			以太网综合测试
+                4			无线综合测试
+                5			IC卡性能,压力测试
+                6			磁卡刷卡压力测试
+                7			安全性能,压力
+                8			文件系统综合测试
+                9			串口综合测试
+               10			RTC综合测试
+               11			wlan综合测试
+               12			测试计算菲波纳契数列的效率
+               13			射频卡性能,压力测试
+               14			磁卡/无线交叉测试
+               15			磁卡/打印交叉
+               16			磁卡/MDM交叉测试
+               17			磁卡/LAN交叉测试
+               18			打印/无线交叉测试
+               19			打印/MDM交叉测试
+               20			打印/LAN交叉
+               21			无线/MDM交叉测试
+               22			ETH/WLAN交叉测试
+               23			wlm/SMART交叉
+               24			磁卡/SMART交叉
+               25			IC卡/RF交叉
+               26			SMART/MDM交叉测试
+               27			SMART/LAN交叉测试
+               28			SMART/打印交叉
+               29			MDM/LAN交叉测试
+               30			无线/LAN交叉
+               31			硬件信息测试
+               32				USB串口综合测试
+               34			MEMORY卡测试
+               35			PP60测试
+               36			NL829测试
+               38			打印/键盘交叉
+               39			硬件统计服务
+               40			SD/U盘综合测试
+               41			(SD/U盘)/SMART交叉
+               42			SD/打印交叉
+               43			打印/取电池电量交叉
+               44			WLAN/ETH深度交叉
+               45			WLAN/WLM深度交叉
+               46			WLAN/MDM深度交叉
+               47			蜂鸣器压力测试
+               48			磁卡/键盘交叉
+               49			三界面卡测试
+               50			射频/键盘交叉
+               51			LCD屏幕测试
+               52			射频/触屏交叉测试
+               53			触屏/打印交叉测试
+               54			触屏/磁卡交叉测试
+               55			触屏/取电池电量测试
+               56			触屏/休眠交叉测试
+               57			蓝牙综合测试
+               58			蓝牙/取电池电量测试
+               59			BT/MDM深交叉
+               60			BT/WLM深交叉
+               61			BT/ETH深交叉
+               62			BT/WLAN深交叉
+               63			磁卡/BT交叉测试
+               64			SMART/BT交叉测试
+               65			打印/BT交叉
+               66			多线程类
+               67			状态栏综合测试
+               68			休眠压力测试
+               69			USB从/3g深交叉
+               70			USB主/3g深交叉
+               71			U盘/3g深交叉
+               85			蓝牙主模式综合测试
+ ***************************************************************************
+|thread -    thread -用例号|             			测试点 		|
+                1			测试NDK_CreateThread接口功能
+                2			测试 NDK_TerminateThread接口功能
+                3			测试 NDK_ThreadSleep 接口功能
+                4			测试 NDK_Relinquish() 接口功能
+                5			测试 NDK_CreateSemaphore NDK_DestroySemaphore接口功能
+                6			测试 NDK_ReleaseSemaphore,NDK_LockSemaphore接口功能

@@ -1,0 +1,21 @@
+[Set]
+#Type :1表示V2版，2表示NLinux版,3支持自动识别V2和NLinux版本
+Type=6
+[FileList]
+[{]}丁.NLP = 文件
+^_=+.,.NLP = 文件
+a~!@#%.NLP = 文件
+debugapp.NLP = 文件
+ErrDg.NLP = 文件
+k#~a.NLP = 文件
+mapp.NLP = 文件
+master.NLP = 文件
+mastercst.NLP = 文件
+n新!%1.NLP = 文件
+right.NLP = 文件
+shutdown.NLP = 文件
+test1.NLP = 文件
+wrong.NLP = 文件
+自检.NLP = 文件
+自检1.NLP = 文件
+

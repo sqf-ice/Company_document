@@ -1,0 +1,6 @@
+$(OBJDIR)/systest57.deps $(OBJDIR)/systest57.o: ../src/pos/systest/systest57.c  \
+ ../inc/pos/ME32/V2/NDK.h ../inc/pos/typedef.h ../inc/pos/lib.h \
+ ../inc/pos/ME32/V2/ctype.h ../inc/pos/flag.h ../inc/pos/gui.h \
+ ../inc/pos/mifare-1.h ../inc/pos/sec.h ../inc/pos/kb.h \
+ ../inc/pos/cut_assert.h ../inc/pos/lib.h ../inc/pos/MyHeader.h \
+ ../inc/pos/systest.h ../inc/pos/devices.h

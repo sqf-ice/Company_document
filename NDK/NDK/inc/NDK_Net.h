@@ -1,0 +1,37 @@
+#ifndef _NDK_NET_H_
+#define _NDK_NET_H_
+
+
+
+#define PATH_ROUTER_WLAN "/tmp/wlan_route"
+#define PATH_ROUTER_ETH  "/tmp/eth_route"
+#define PATH_ROUTER_WLS  "/tmp/wls_route"
+
+#define PATH_RESOLV_WLAN "/tmp/wifi_resolv.conf"
+#define PATH_RESOLV_ETH "/tmp/eth_resolv.conf"
+#define PATH_RESOLV_WLS "/tmp/wls_resolv.conf"
+#define PATH_RESOLV_TMP "/tmp/resolv.conf"
+
+typedef enum {
+    FUNC_COMM_SIGNAL_GET,
+    FUNC_BT_SIGNAL_SET,
+    FUNC_MODEM_SIGNAL_SET,
+    FUNC_CPLD_SWITCH_UART,
+    FUNC_WLM_RESET_BEFORE,
+    FUNC_WLM_RESET_AFTER,
+    FUNC_WLM_GSMMUX_ENABLE,
+    FUNC_WLM_GSMMUX_DISABLE,
+    FUNC_WLM_GSMMUX_FILEINIT,
+    FUNC_WIFI_ENABLE,
+    FUNC_WIFI_DISABLE,
+    FUNC_WIFI_INIT_STATUS_GET,
+    FUNC_WIFI_CONNECT_STATUS_GET,
+    FUNC_WIFI_INFO_MAC,
+    FUNC_WIFI_INFO_SCAN_RESULTS,
+    FUNC_WLM_PMS_SUSPEND,    
+    FUNC_WLM_PMS_RESUME,     
+    FUNC_BT_CHANGE_PAIRMODE,
+    FUNC_WIFI_DISCONNECT,
+} DBUS_COMMSERV_METHOD_NAME;
+
+#endif

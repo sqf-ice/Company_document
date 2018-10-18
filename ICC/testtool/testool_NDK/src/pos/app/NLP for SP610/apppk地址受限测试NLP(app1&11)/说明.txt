@@ -1,0 +1,2 @@
+ErrApppk.NLP、Apppk.NLP、Apppk2.NLP是用于app14用例验证防窃机功能，app14用例需要使用原先的master.key进行打包签名后再验证；
+ApppkS4.NLP、ApppkS8.NLP、FSigS4.NLP、SigB4.NLP、SigS4.NLP是对apppk地址受限(即防窃机)功能的验证，适用于app1用例

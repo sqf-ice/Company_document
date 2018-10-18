@@ -1,0 +1,105 @@
+;modem para
+MDMType=SYNC
+MDMPatchType=5
+SYNCDialStr=6289
+MDMBps=1
+ASYNDialStr=#2
+;wlm para
+WLMType=GPRS
+WLMAPN=CMNET
+PPPUSR=card
+PPPPWD=card
+SIMSLOT=0;
+WlmSvrIP=218.66.48.230
+WlmSvrTCP_PORT=3459
+WlmSvrUDP_PORT=3450
+SockType=NDKTCP
+network=3
+
+;wifi server ip
+WifiSvrIP=218.66.48.230
+WifiSvrTCP_PORT=3460
+WifiSvrUDP_PORT=3459
+
+APNUM=3
+;wifi0 para
+WlanEncMode0=4
+Wlan8021XEapMode0=1
+Wlan8021XIdentity0=linqy
+WlanKeyType0=2
+WlanPwd0=12345678
+WlanEssid0=DLINK823
+WifiDHCPenable0=1
+WifiLocalIP0=192.168.33.110
+WifiLocalMask0=255.255.255.0
+WifiLocalGatway0=192.168.33.1
+WifiMac0=10:BE:F5:CF:97:E7
+WifiMacFlag0=1
+WifiHiddenFlag0=0
+
+;wifi1 para
+WlanEncMode1=3
+Wlan8021XEapMode1=1
+Wlan8021XIdentity1=linqy
+WlanKeyType1=2
+WlanPwd1=12345678
+WlanEssid1=0316
+WifiDHCPenable1=0
+WifiLocalIP1=192.168.0.110
+WifiLocalMask1=255.255.255.0
+WifiLocalGatway1=192.168.0.1
+WifiMac1=C8:3A:35:06:9C:B0
+WifiMacFlag1=1
+WifiHiddenFlag1=0
+
+;wifi2 para
+WlanEncMode2=4
+Wlan8021XEapMode2=1
+Wlan8021XIdentity2=linqy
+WlanKeyType2=2
+WlanPwd2=12345678
+WlanEssid2=1230
+WifiDHCPenable2=1
+WifiLocalIP2=192.168.0.110
+WifiLocalMask2=255.255.255.0
+WifiLocalGatway2=192.168.0.1
+WifiMac2=1C:5F:3B:05:40:24
+WifiMacFlag2=1
+WifiHiddenFlag2=0
+
+;test wifi AP mac
+WifiMac1=78:EB:14:A3:68:F0
+WifiMac2=A8:57:4E:95:2E:88
+WifiMac3=78:54:2e:59:dd:3a
+WifiMac4=08:10:79:82:DB:41
+;eth para
+EthDHCPenable=0
+EthLocalIP=192.168.33.110
+EthLocalMask=255.255.255.0
+EthLocalGatway=192.168.33.254
+EthSvrIP=192.168.4.183
+EthSvrTCP_PORT=3461
+EthSvrUDP_PORT=3450
+;socket communication type
+COMMType=GPRS
+;wifiap para
+WifiApShareDev=0
+WifiApSecMode=4
+WifiApSsid=AP_SSID
+WifiApHidden=0
+WifiApKey=0123456789
+WifiApIp=192.168.123.1
+;bt para
+BtName=ME15128
+BtPin=123456
+BtPairMode=0
+;disk para
+DiskType=0
+;dns type
+DNSType=2
+;smart type
+SMARTType=1
+;ic/sam type
+ICSAMType=1
+;LAN type
+LANType=2

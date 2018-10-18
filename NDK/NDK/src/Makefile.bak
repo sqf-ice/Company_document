@@ -1,0 +1,47 @@
+CROSS_COMPILER = arm-unknown-linux-gnu-
+CC = $(CROSS_COMPILER)gcc
+AR = $(CROSS_COMPILER)ar
+
+MV 	:= mv -f
+RM 	:= rm -f
+SED 	:= sed
+
+TOPDIR=$(shell pwd)/
+INCPATH=-I $(TOPDIR)../../libss/ -I $(TOPDIR)../inc -I $(TOPDIR)../../../inc -I $(TOPDIR)../../../inc/glib-2.0 -I $(TOPDIR)../../../third_party/openssl-1.0.0g/include/
+CFLAGS += -Wall -O2 $(INCPATH) 
+#LDFLAGS =-L../env -lguicore -lpthread
+LDFLAGS =-L../../libdevmgr/src -ldevmgr -L../../nldhandle/src -lnld -L ../../libpms -lpms -L ../../libpms -lpms -L ../../libss -lss -L../../../src/gui/core -lguicore -lpthread -L../../../src/gui/widget -lwidget  -L../../../lib/ -ldbus-1 -lpthread -lglib-2.0 -ldbus-glib-1 -lgio-2.0 -lgmodule-2.0 -lgobject-2.0 -lgthread-2.0 -lsqlite3 -lcrypto -lssl -lconfig 
+CPPFLAGS += $(addprefix -I ,$(INCPATH))
+SHAREDLIB = libndk.so
+
+vpath %.h $(INCPATH)
+
+SRCS=$(shell find . -name *.c)
+OBJS=$(patsubst %.c,%.o,$(SRCS))
+dependencies = $(subst .c,.d,$(SRCS))
+			  
+all: $(SHAREDLIB)
+
+share: $(SHAREDLIB)
+
+$(SHAREDLIB): $(OBJS)
+	$(CC) -shared -Wl,-soname,$(SHAREDLIB) -o $@ $^ ${LDFLAGS};\
+
+clean:
+	rm -f $(SHAREDLIB) $(OBJS)
+	rm -f $(dependencies) 
+	
+ifneq "$(MAKECMDGOALS)" "clean"
+  -include $(dependencies)
+endif
+
+%.d: %.c
+	$(CC) $(CFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -MM $< |	\
+	$(SED) 's,\($(notdir $*.o)\) *:,$*.o $@: ,' > $@.tmp
+	$(MV) $@.tmp $@
+
+
+		
+
+
+

@@ -1,0 +1,7 @@
+$(OBJDIR)/main.deps $(OBJDIR)/main.o: ../src/pos/main/main.c  ../inc/pos/ME32/V2/NDK.h \
+ ../inc/pos/typedef.h ../inc/pos/lib.h ../inc/pos/ME32/V2/ctype.h \
+ ../inc/pos/flag.h ../inc/pos/gui.h ../inc/pos/mifare-1.h \
+ ../inc/pos/sec.h ../inc/pos/kb.h ../inc/pos/cut_assert.h \
+ ../inc/pos/lib.h ../inc/pos/MyHeader.h ../inc/apitest.h  \
+ ../inc/version.h ../inc/testmod.h ../inc/menu.h ../inc/list.h \
+ ../inc/func.h

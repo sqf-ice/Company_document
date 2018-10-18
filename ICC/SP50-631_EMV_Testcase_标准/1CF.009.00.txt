@@ -1,0 +1,220 @@
+Date               :    3/12/2016  15:12
+
+Reader    ->  Vcc high
+Reader    ->  IO High
+Reader    ->  Clk On
+Reader    ->  Rst high
+Cold atr  ->  3B 60 00 00 
+Reader    <-  00 A4 04 00 07                                                          T0 Command #1
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #2
+ ICC      ->  C0 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #3
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #4
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #5
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #6
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #7
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #8
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #9
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #10
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #11
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #12
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #13
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #14
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #15
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #16
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #17
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #18
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #19
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #20
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #21
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #22
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #23
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #24
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #25
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #26
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #27
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #28
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #29
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #30
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #31
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #32
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #33
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #34
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #35
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #36
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #37
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #38
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #39
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #40
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #41
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #42
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #43
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #44
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #45
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #46
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #47
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #48
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #49
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #50
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #51
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #52
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #53
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #54
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #55
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #56
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #57
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #58
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #59
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #60
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #61
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #62
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #63
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #64
+ ICC      ->  6C 06 
+Reader    <-  00 B2 01 21 06                                                          T0 Command #65
+ ICC      ->  B2 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #66
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #67
+ ICC      ->  C0 00 20 12 03 06 00 90 00 
+Reader    <-  00 20 12 A7 06                                                          T0 Command #68
+ ICC      ->  20 
+Reader    <-  00 01 02 03 04 05 
+ ICC      ->  90 00 
+Reader    <-  00 A4 04 90 07                                                          T0 Command #69
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #70
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #71
+ ICC      ->  6C 0A 
+Reader    <-  00 B2 01 21 0A                                                          T0 Command #72
+ ICC      ->  B2 01 02 03 04 05 06 07 08 09 0A 6A 82 
+Reader    ->  Rst low
+Reader    ->  Clk Off
+Reader    ->  IO Low
+Reader    ->  Vcc low
+
+--- Errors ---
+

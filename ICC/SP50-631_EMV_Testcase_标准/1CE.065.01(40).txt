@@ -1,0 +1,33 @@
+Date               :    3/12/2016  15:7
+
+Reader    ->  Vcc high
+Reader    ->  IO High
+Reader    ->  Clk On
+Reader    ->  Rst high
+Cold atr  ->  3B E0 00 00 04 E4 
+Reader    ->  Rst low
+Reader    ->  Rst high
+Warm atr  ->  3B 60 00 00 
+Reader    <-  00 A4 04 00 07                                                          T0 Command #1
+ ICC      ->  A4 
+Reader    <-  A0 00 00 00 03 10 10 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #2
+ ICC      ->  C0 80 A8 00 04 02 00 90 00 
+Reader    <-  80 A8 00 BE 02                                                          T0 Command #3
+ ICC      ->  A8 
+Reader    <-  00 01 
+ ICC      ->  61 06 
+Reader    <-  00 C0 00 00 06                                                          T0 Command #4
+ ICC      ->  C0 00 B2 01 02 00 00 90 00 
+Reader    <-  00 B2 01 21 00                                                          T0 Command #5
+ ICC      ->  6C 0A 
+Reader    <-  00 B2 01 21 0A                                                          T0 Command #6
+ ICC      ->  B2 01 02 03 04 05 06 07 08 09 0A 6A 82 
+Reader    ->  Rst low
+Reader    ->  Clk Off
+Reader    ->  IO Low
+Reader    ->  Vcc low
+
+--- Errors ---
+

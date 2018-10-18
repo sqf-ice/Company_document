@@ -1,0 +1,16 @@
+Date               :    3/12/2016  15:18
+
+Reader    ->  Vcc high
+Reader    ->  IO High
+Reader    ->  Clk On
+Reader    ->  Rst high
+Cold atr  ->  3B E0 00 00 10 80 
+Reader    <-  00 A4 04 00 07                                                          T0 Command #1
+ ICC      ->  [A4] [A4] [A4] [A4] [A4] A4 
+Reader    ->  Rst low
+Reader    ->  Clk Off
+Reader    ->  IO Low
+Reader    ->  Vcc low
+
+--- Errors ---
+

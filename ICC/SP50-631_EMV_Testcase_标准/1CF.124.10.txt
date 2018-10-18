@@ -1,0 +1,26 @@
+Date               :    3/12/2016  15:50
+
+Reader    ->  Vcc high
+Reader    ->  IO High
+Reader    ->  Clk On
+Reader    ->  Rst high
+Cold atr  ->  3B F0 12 00 00 91 81 31 20 01 E2 
+Reader   <--  00 C1 01 FE 3E 
+ ICC     -->  00 E1 01 FE 1E 
+Reader   <--  00 00 0D 00 A4 04 00 07 A0 00 00 00 03 10 10 00 09 
+ ICC     -->  00 00 08 80 A8 00 04 02 00 90 00 B6 
+Reader   <--  00 40 08 80 A8 00 BE 02 00 01 00 DD 
+ ICC     -->  00 40 08 80 A8 00 04 40 00 90 00 B4 
+Reader   <--  00 20 20 80 A8 00 FC 40 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10 11 12 13 14 15 16 17 18 19 1A 8F 
+ ICC     -->  00 90 [00] 90 
+Reader   <--  00 81 00 81 
+ ICC     -->  00 90 [00] 90 
+Reader   <--  00 81 00 81 
+ ICC     -->  00 90 [00] 90 
+Reader    ->  Rst low
+Reader    ->  Clk Off
+Reader    ->  IO Low
+Reader    ->  Vcc low
+
+--- Errors ---
+

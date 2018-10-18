@@ -1,0 +1,50 @@
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:23:16 2009
+Client Ip Address=192.168.5.232 Port Numbdr =14549
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:25:11 2009
+Client Ip Address=192.168.5.232 Port Numbdr =12649
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:32:17 2009
+Client Ip Address=192.168.5.232 Port Numbdr =9367
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:37:36 2009
+Client Ip Address=192.168.5.232 Port Numbdr =8108
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:45:10 2009
+Client Ip Address=192.168.5.232 Port Numbdr =10601
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 10:55:43 2009
+Client Ip Address=192.168.5.232 Port Numbdr =11659
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 11:14:54 2009
+Client Ip Address=192.168.5.232 Port Numbdr =12994
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 11:15:16 2009
+Client Ip Address=192.168.5.232 Port Numbdr =11510
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 11:15:46 2009
+Client Ip Address=192.168.5.232 Port Numbdr =14580
+disconnect
+waiting for connecting....................
+some one is connected
+time: Mon Nov 23 11:20:00 2009
+Client Ip Address=192.168.5.232 Port Numbdr =8795
+disconnect
